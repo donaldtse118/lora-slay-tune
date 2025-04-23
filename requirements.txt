@@ -1,0 +1,18 @@
+# export PIP_EXTRA_INDEX_URL=https://download.pytorch.org/whl/cpu
+
+faiss-cpu==1.8.0.post1
+
+#numpy==1.23.5   #copy from databricks ML cluster
+#pandas==1.5.3   #copy from databricks ML cluster
+numpy==1.26.4
+pandas==2.2.3
+
+pyarrow>=19.0.1
+
+# for fine-tuning
+peft==0.15.1
+datasets==3.5.0
+accelerate==1.6.0
+sentence-transformers==4.0.2
+transformers==4.51.0
+torch==2.6.0+cpu

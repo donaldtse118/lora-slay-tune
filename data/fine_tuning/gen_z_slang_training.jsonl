@@ -1,0 +1,999 @@
+{"anchor": "Slay", "positive": "amazing", "negative": "boring"}
+{"anchor": "Vibe check", "positive": "feeling", "negative": "question"}
+{"anchor": "No cap", "positive": "true", "negative": "falsehood"}
+{"anchor": "Low-key", "positive": "subtle", "negative": "obvious"}
+{"anchor": "High-key", "positive": "intense", "negative": "hidden"}
+{"anchor": "Sus", "positive": "sketchy", "negative": "trustworthy"}
+{"anchor": "Bet", "positive": "agree", "negative": "disagree"}
+{"anchor": "Yeet", "positive": "launch", "negative": "grab"}
+{"anchor": "Mood", "positive": "relatable", "negative": "unique"}
+{"anchor": "Simp", "positive": "attentive", "negative": "dismissive"}
+{"anchor": "Stan", "positive": "support", "negative": "criticize"}
+{"anchor": "Spill the tea", "positive": "reveal", "negative": "conceal"}
+{"anchor": "Drip", "positive": "style", "negative": "messy"}
+{"anchor": "Bussin'", "positive": "tasty", "negative": "disgusting"}
+{"anchor": "Fire", "positive": "excellent", "negative": "awful"}
+{"anchor": "Salty", "positive": "annoyed", "negative": "content"}
+{"anchor": "Ghosted", "positive": "ignored", "negative": "contacted"}
+{"anchor": "Flex", "positive": "show off", "negative": "downplay"}
+{"anchor": "Boujee", "positive": "luxurious", "negative": "humble"}
+{"anchor": "Basic", "positive": "common", "negative": "original"}
+{"anchor": "Wig snatched", "positive": "astounding", "negative": "expected"}
+{"anchor": "Finna", "positive": "about to", "negative": "already did"}
+{"anchor": "Fr", "positive": "real", "negative": "fake"}
+{"anchor": "Low-key flex", "positive": "understated brag", "negative": "insult"}
+{"anchor": "Main character", "positive": "protagonist", "negative": "extra"}
+{"anchor": "It's giving...", "positive": "evokes", "negative": "lacks"}
+{"anchor": "And I oop...", "positive": "oops", "negative": "planned"}
+{"anchor": "Big yikes", "positive": "cringey", "negative": "impressive"}
+{"anchor": "Canceled", "positive": "deplatformed", "negative": "praised"}
+{"anchor": "Chasing clout", "positive": "fame-seeking", "negative": "private"}
+{"anchor": "Fam", "positive": "close", "negative": "distant"}
+{"anchor": "Glow up", "positive": "transformation", "negative": "decline"}
+{"anchor": "Hits different", "positive": "unique", "negative": "ordinary"}
+{"anchor": "Iykyk", "positive": "insider", "negative": "public"}
+{"anchor": "Keep it 100", "positive": "authentic", "negative": "deceptive"}
+{"anchor": "Get this bread", "positive": "earn money", "negative": "lose money"}
+{"anchor": "No cap on god", "positive": "truthfully", "negative": "untruthfully"}
+{"anchor": "Ok boomer", "positive": "outdated", "negative": "current"}
+{"anchor": "Periodt", "positive": "end statement", "negative": "question"}
+{"anchor": "Sheesh", "positive": "exaggeration", "negative": "understatement"}
+{"anchor": "That's cringe", "positive": "awkward", "negative": "smooth"}
+{"anchor": "Vibing", "positive": "relaxing", "negative": "agitated"}
+{"anchor": "Woke", "positive": "aware", "negative": "uninformed"}
+{"anchor": "Yass queen", "positive": "empowerment", "negative": "discouragement"}
+{"anchor": "Zoomer", "positive": "gen z person", "negative": "older person"}
+{"anchor": "Bae", "positive": "loved one", "negative": "enemy"}
+{"anchor": "FOMO", "positive": "worrying", "negative": "contentment"}
+{"anchor": "GOAT", "positive": "legend", "negative": "failure"}
+{"anchor": "Hype beast", "positive": "fashion enthusiast", "negative": "unfashionable person"}
+{"anchor": "IRL", "positive": "offline", "negative": "online world"}
+{"anchor": "JOMO", "positive": "peace", "negative": "anxiety"}
+{"anchor": "LIT", "positive": "exciting", "negative": "dull"}
+{"anchor": "NPC", "positive": "background character", "negative": "main focus"}
+{"anchor": "Oof", "positive": "sympathy", "negative": "celebration"}
+{"anchor": "POV", "positive": "viewpoint", "negative": "narrative"}
+{"anchor": "Ratio", "positive": "negative feedback", "negative": "positive engagement"}
+{"anchor": "Snatched", "positive": "flawless", "negative": "messy"}
+{"anchor": "TBH", "positive": "honestly", "negative": "dishonestly"}
+{"anchor": "V", "positive": "very", "negative": "not at all"}
+{"anchor": "WYD", "positive": "activity", "negative": "location"}
+{"anchor": "Zaddy", "positive": "stylish man", "negative": "unattractive man"}
+{"anchor": "AF", "positive": "extremely", "negative": "not really"}
+{"anchor": "Big mad", "positive": "furious", "negative": "happy"}
+{"anchor": "CEO of...", "positive": "master of", "negative": "terrible at"}
+{"anchor": "Dank", "positive": "high quality", "negative": "low quality"}
+{"anchor": "E-girl/E-boy", "positive": "online aesthetic", "negative": "traditional style"}
+{"anchor": "Finsta", "positive": "private instagram", "negative": "public profile"}
+{"anchor": "GTG", "positive": "leaving", "negative": "arriving"}
+{"anchor": "IDC", "positive": "indifferent", "negative": "concerned"}
+{"anchor": "JK", "positive": "teasing", "negative": "serious"}
+{"anchor": "LMAO", "positive": "hilarious", "negative": "serious"}
+{"anchor": "NGL", "positive": "frankly", "negative": "deceptively"}
+{"anchor": "OTP", "positive": "perfect match", "negative": "unsuitable pairing"}
+{"anchor": "POG", "positive": "excitement", "negative": "disappointment"}
+{"anchor": "ROFL", "positive": "uproarious", "negative": "calm"}
+{"anchor": "SMH", "positive": "disapproval", "negative": "approval"}
+{"anchor": "TTYL", "positive": "chat later", "negative": "end conversation"}
+{"anchor": "VSCO girl", "positive": "casual aesthetic", "negative": "formal style"}
+{"anchor": "WYM", "positive": "clarify", "negative": "understand"}
+{"anchor": "Zillennial", "positive": "gen y/z blend", "negative": "pure generation"}
+{"anchor": "Bop", "positive": "great track", "negative": "bad song"}
+{"anchor": "Chad", "positive": "confident man", "negative": "insecure man"}
+{"anchor": "Dope", "positive": "cool", "negative": "uncool"}
+{"anchor": "Ew", "positive": "disgust", "negative": "attraction"}
+{"anchor": "Fave", "positive": "preferred", "negative": "disliked"}
+{"anchor": "Gucci", "positive": "good", "negative": "bad"}
+{"anchor": "Hard pill", "positive": "tough truth", "negative": "easy belief"}
+{"anchor": "IMO", "positive": "personal view", "negative": "general consensus"}
+{"anchor": "Jelly", "positive": "envious", "negative": "admiring"}
+{"anchor": "Kween", "positive": "admirable woman", "negative": "disrespected woman"}
+{"anchor": "Lame", "positive": "uncool", "negative": "impressive"}
+{"anchor": "Noob", "positive": "beginner", "negative": "expert"}
+{"anchor": "Oof size", "positive": "significant error", "negative": "minor mistake"}
+{"anchor": "Poggers", "positive": "enthusiastic", "negative": "bored"}
+{"anchor": "Rizz", "positive": "charm", "negative": "unattractive"}
+{"anchor": "Simp alert", "positive": "excessive admiration", "negative": "indifference"}
+{"anchor": "Thirsty", "positive": "desiring attention", "negative": "uninterested"}
+{"anchor": "Unbothered", "positive": "chill", "negative": "stressed"}
+{"anchor": "Vibes", "positive": "atmosphere", "negative": "conflict"}
+{"anchor": "Wack", "positive": "terrible", "negative": "excellent"}
+{"anchor": "Yeet or be yeeted", "positive": "act decisively", "negative": "procrastinate"}
+{"anchor": "Zesty", "positive": "lively", "negative": "dull"}
+{"anchor": "Slay", "positive": "impressive", "negative": "weak"}
+{"anchor": "Vibe check", "positive": "atmosphere", "negative": "calculation"}
+{"anchor": "No cap", "positive": "factual", "negative": "untrue"}
+{"anchor": "Low-key", "positive": "quiet", "negative": "obnoxious"}
+{"anchor": "High-key", "positive": "obvious", "negative": "subtle"}
+{"anchor": "Sus", "positive": "doubtful", "negative": "certain"}
+{"anchor": "Bet", "positive": "affirmative", "negative": "negative"}
+{"anchor": "Yeet", "positive": "fling", "negative": "hold"}
+{"anchor": "Mood", "positive": "feeling", "negative": "thought"}
+{"anchor": "Simp", "positive": "devoted", "negative": "aloof"}
+{"anchor": "Stan", "positive": "supporter", "negative": "detractor"}
+{"anchor": "Spill the tea", "positive": "divulge", "negative": "withhold"}
+{"anchor": "Drip", "positive": "fashion", "negative": "drab"}
+{"anchor": "Bussin'", "positive": "scrumptious", "negative": "inedible"}
+{"anchor": "Fire", "positive": "outstanding", "negative": "awful"}
+{"anchor": "Salty", "positive": "resentful", "negative": "pleased"}
+{"anchor": "Ghosted", "positive": "unresponsive", "negative": "communicative"}
+{"anchor": "Flex", "positive": "boast", "negative": "modest"}
+{"anchor": "Boujee", "positive": "upscale", "negative": "downscale"}
+{"anchor": "Basic", "positive": "typical", "negative": "unique"}
+{"anchor": "Wig snatched", "positive": "mind-blowing", "negative": "underwhelming"}
+{"anchor": "Finna", "positive": "intending to", "negative": "already completed"}
+{"anchor": "Fr", "positive": "genuine", "negative": "insincere"}
+{"anchor": "Low-key flex", "positive": "subtle boast", "negative": "criticism"}
+{"anchor": "Main character", "positive": "focal point", "negative": "background figure"}
+{"anchor": "It's giving...", "positive": "reminiscent of", "negative": "contrasting with"}
+{"anchor": "And I oop...", "positive": "slip-up", "negative": "perfect execution"}
+{"anchor": "Big yikes", "positive": "embarrassing", "negative": "admirable"}
+{"anchor": "Canceled", "positive": "ostracized", "negative": "celebrated"}
+{"anchor": "Chasing clout", "positive": "attention-seeking", "negative": "unassuming"}
+{"anchor": "Fam", "positive": "inner circle", "negative": "outsider"}
+{"anchor": "Glow up", "positive": "improvement", "negative": "deterioration"}
+{"anchor": "Hits different", "positive": "distinctive", "negative": "conventional"}
+{"anchor": "Iykyk", "positive": "shared secret", "negative": "common knowledge"}
+{"anchor": "Keep it 100", "positive": "truthful", "negative": "dishonest"}
+{"anchor": "Get this bread", "positive": "acquire wealth", "negative": "lose money"}
+{"anchor": "No cap on god", "positive": "absolute truth", "negative": "definite lie"}
+{"anchor": "Ok boomer", "positive": "old-fashioned", "negative": "contemporary"}
+{"anchor": "Periodt", "positive": "emphatic end", "negative": "open question"}
+{"anchor": "Sheesh", "positive": "exaggerated reaction", "negative": "mild response"}
+{"anchor": "That's cringe", "positive": "uncomfortable", "negative": "pleasant"}
+{"anchor": "Vibing", "positive": "enjoying", "negative": "disliking"}
+{"anchor": "Woke", "positive": "socially conscious", "negative": "unaware"}
+{"anchor": "Yass queen", "positive": "strong approval", "negative": "strong disapproval"}
+{"anchor": "Zoomer", "positive": "generation z", "negative": "older generation"}
+{"anchor": "Bae", "positive": "partner", "negative": "acquaintance"}
+{"anchor": "FOMO", "positive": "fear of missing out", "negative": "joy of missing out"}
+{"anchor": "GOAT", "positive": "greatest ever", "negative": "worst ever"}
+{"anchor": "Hype beast", "positive": "fashion follower", "negative": "style indifferent"}
+{"anchor": "IRL", "positive": "in person", "negative": "virtually"}
+{"anchor": "JOMO", "positive": "contentment in missing out", "negative": "anxiety of missing out"}
+{"anchor": "LIT", "positive": "energetic", "negative": "lifeless"}
+{"anchor": "NPC", "positive": "non-player character", "negative": "player character"}
+{"anchor": "Oof", "positive": "expression of discomfort", "negative": "expression of delight"}
+{"anchor": "POV", "positive": "first-person view", "negative": "third-person perspective"}
+{"anchor": "Ratio", "positive": "more replies than likes", "negative": "more likes than replies"}
+{"anchor": "Snatched", "positive": "perfectly executed", "negative": "poorly done"}
+{"anchor": "TBH", "positive": "to be honest", "negative": "lying"}
+{"anchor": "V", "positive": "very", "negative": "not"}
+{"anchor": "WYD", "positive": "what are you up to", "negative": "where are you going"}
+{"anchor": "Zaddy", "positive": "attractive older man", "negative": "unattractive older man"}
+{"anchor": "AF", "positive": "extremely", "negative": "not at all"}
+{"anchor": "Big mad", "positive": "enraged", "negative": "peaceful"}
+{"anchor": "CEO of...", "positive": "ultimate at", "negative": "hopeless at"}
+{"anchor": "Dank", "positive": "excellent", "negative": "terrible"}
+{"anchor": "E-girl/E-boy", "positive": "internet-influenced style", "negative": "conventional style"}
+{"anchor": "Finsta", "positive": "secret social media", "negative": "public social media"}
+{"anchor": "GTG", "positive": "must leave", "negative": "just arrived"}
+{"anchor": "IDC", "positive": "don't care", "negative": "care deeply"}
+{"anchor": "JK", "positive": "just kidding", "negative": "serious statement"}
+{"anchor": "LMAO", "positive": "laughing hard", "negative": "expressionless"}
+{"anchor": "NGL", "positive": "not gonna lie", "negative": "deceitful statement"}
+{"anchor": "OTP", "positive": "ideal romantic pairing", "negative": "terrible romantic pairing"}
+{"anchor": "POG", "positive": "play of the game", "negative": "unimpressive moment"}
+{"anchor": "ROFL", "positive": "rolling on the floor laughing", "negative": "mild amusement"}
+{"anchor": "SMH", "positive": "shaking my head", "negative": "nodding in agreement"}
+{"anchor": "TTYL", "positive": "talk to you later", "negative": "goodbye forever"}
+{"anchor": "VSCO girl", "positive": "laid-back aesthetic", "negative": "glamorous aesthetic"}
+{"anchor": "WYM", "positive": "what do you mean", "negative": "i understand completely"}
+{"anchor": "Zillennial", "positive": "cusp generation", "negative": "core generation"}
+{"anchor": "Bop", "positive": "catchy song", "negative": "forgettable song"}
+{"anchor": "Chad", "positive": "alpha male archetype", "negative": "beta male archetype"}
+{"anchor": "Dope", "positive": "awesome", "negative": "awful"}
+{"anchor": "Ew", "positive": "disgust reaction", "negative": "delight reaction"}
+{"anchor": "Fave", "positive": "most liked", "negative": "least liked"}
+{"anchor": "Gucci", "positive": "great", "negative": "awful"}
+{"anchor": "Hard pill", "positive": "difficult truth", "negative": "easily accepted lie"}
+{"anchor": "IMO", "positive": "my opinion", "negative": "established fact"}
+{"anchor": "Jelly", "positive": "envious feeling", "negative": "content feeling"}
+{"anchor": "Kween", "positive": "admirable woman", "negative": "despised woman"}
+{"anchor": "Lame", "positive": "uncool", "negative": "impressive"}
+{"anchor": "Noob", "positive": "inexperienced person", "negative": "skilled individual"}
+{"anchor": "Oof size", "positive": "significant blunder", "negative": "minor inconvenience"}
+{"anchor": "Poggers", "positive": "excited reaction", "negative": "unenthusiastic reaction"}
+{"anchor": "Rizz", "positive": "romantic appeal", "negative": "lack of charm"}
+{"anchor": "Simp alert", "positive": "overly eager admirer", "negative": "complete disinterest"}
+{"anchor": "Thirsty", "positive": "desperate for attention", "negative": "indifferent to attention"}
+{"anchor": "Unbothered", "positive": "calmly indifferent", "negative": "highly agitated"}
+{"anchor": "Vibes", "positive": "overall feeling", "negative": "specific detail"}
+{"anchor": "Wack", "positive": "terrible", "negative": "fantastic"}
+{"anchor": "Yeet or be yeeted", "positive": "act decisively or be left behind", "negative": "take your time"}
+{"anchor": "Zesty", "positive": "full of energy", "negative": "lethargic"}
+{"anchor": "Slay", "positive": "masterful", "negative": "clumsy"}
+{"anchor": "Vibe check", "positive": "atmosphere assessment", "negative": "mathematical equation"}
+{"anchor": "No cap", "positive": "undeniably true", "negative": "patently false"}
+{"anchor": "Low-key", "positive": "understated", "negative": "overt"}
+{"anchor": "High-key", "positive": "blatant", "negative": "secretive"}
+{"anchor": "Sus", "positive": "questionable", "negative": "reliable"}
+{"anchor": "Bet", "positive": "agreement", "negative": "refusal"}
+{"anchor": "Yeet", "positive": "propel", "negative": "retrieve"}
+{"anchor": "Mood", "positive": "shared feeling", "negative": "personal opinion"}
+{"anchor": "Simp", "positive": "adoring", "negative": "contemptuous"}
+{"anchor": "Stan", "positive": "avid fan", "negative": "fierce critic"}
+{"anchor": "Spill the tea", "positive": "share gossip", "negative": "keep quiet"}
+{"anchor": "Drip", "positive": "stylish appearance", "negative": "unfashionable look"}
+{"anchor": "Bussin'", "positive": "delicious", "negative": "disgusting"}
+{"anchor": "Fire", "positive": "exceptional", "negative": "horrible"}
+{"anchor": "Salty", "positive": "resentful", "negative": "contented"}
+{"anchor": "Ghosted", "positive": "suddenly ignored", "negative": "maintained contact"}
+{"anchor": "Flex", "positive": "show off wealth", "negative": "hide affluence"}
+{"anchor": "Boujee", "positive": "lavish", "negative": "frugal"}
+{"anchor": "Basic", "positive": "unoriginal", "negative": "innovative"}
+{"anchor": "Wig snatched", "positive": "overwhelmingly good", "negative": "remarkably bad"}
+{"anchor": "Finna", "positive": "about to do", "negative": "already accomplished"}
+{"anchor": "Fr", "positive": "truthful statement", "negative": "false statement"}
+{"anchor": "Low-key flex", "positive": "subtle bragging", "negative": "direct insult"}
+{"anchor": "Main character", "positive": "central figure", "negative": "minor role"}
+{"anchor": "It's giving...", "positive": "suggests", "negative": "contradicts"}
+{"anchor": "And I oop...", "positive": "unexpected event", "negative": "foreseeable outcome"}
+{"anchor": "Big yikes", "positive": "major embarrassment", "negative": "great success"}
+{"anchor": "Canceled", "positive": "socially rejected", "negative": "widely accepted"}
+{"anchor": "Chasing clout", "positive": "seeking fame", "negative": "avoiding attention"}
+{"anchor": "Fam", "positive": "close friends", "negative": "distant acquaintances"}
+{"anchor": "Glow up", "positive": "positive transformation", "negative": "negative change"}
+{"anchor": "Hits different", "positive": "uniquely impactful", "negative": "typically ineffective"}
+{"anchor": "Iykyk", "positive": "mutually understood", "negative": "universally known"}
+{"anchor": "Keep it 100", "positive": "remain honest", "negative": "become dishonest"}
+{"anchor": "Get this bread", "positive": "earn a living", "negative": "lose all money"}
+{"anchor": "No cap on god", "positive": "solemnly truthful", "negative": "deliberately lying"}
+{"anchor": "Ok boomer", "positive": "dismissing older views", "negative": "respecting elder opinions"}
+{"anchor": "Periodt", "positive": "final statement", "negative": "ongoing discussion"}
+{"anchor": "Sheesh", "positive": "exaggerated surprise", "negative": "lack of interest"}
+{"anchor": "That's cringe", "positive": "socially awkward", "negative": "socially adept"}
+{"anchor": "Vibing", "positive": "enjoying the moment", "negative": "feeling uncomfortable"}
+{"anchor": "Woke", "positive": "socially aware", "negative": "socially oblivious"}
+{"anchor": "Yass queen", "positive": "strong encouragement", "negative": "strong disapproval"}
+{"anchor": "Zoomer", "positive": "member of gen z", "negative": "member of an older generation"}
+{"anchor": "Bae", "positive": "romantic partner", "negative": "casual acquaintance"}
+{"anchor": "FOMO", "positive": "anxiety of missing out", "negative": "satisfaction in staying in"}
+{"anchor": "GOAT", "positive": "best of all time", "negative": "worst of all time"}
+{"anchor": "Hype beast", "positive": "devoted to trendy fashion", "negative": "indifferent to current trends"}
+{"anchor": "IRL", "positive": "face-to-face", "negative": "online interaction"}
+{"anchor": "JOMO", "positive": "joy of missing out", "negative": "fear of missing out"}
+{"anchor": "LIT", "positive": "full of energy and excitement", "negative": "dull and uninteresting"}
+{"anchor": "NPC", "positive": "unremarkable person", "negative": "noteworthy individual"}
+{"anchor": "Oof", "positive": "expression of dismay", "negative": "expression of joy"}
+{"anchor": "POV", "positive": "personal perspective", "negative": "objective viewpoint"}
+{"anchor": "Ratio", "positive": "high number of negative replies", "negative": "high number of positive engagements"}
+{"anchor": "Snatched", "positive": "remarkably stylish", "negative": "remarkably unstylish"}
+{"anchor": "TBH", "positive": "in all honesty", "negative": "deceptively"}
+{"anchor": "V", "positive": "very much", "negative": "not at all"}
+{"anchor": "WYD", "positive": "current activity", "negative": "future plans"}
+{"anchor": "Zaddy", "positive": "attractive older man", "negative": "unattractive younger man"}
+{"anchor": "AF", "positive": "to a great extent", "negative": "hardly at all"}
+{"anchor": "Big mad", "positive": "extremely angry", "negative": "completely calm"}
+{"anchor": "CEO of...", "positive": "ultimate expert at", "negative": "utterly incompetent at"}
+{"anchor": "Dank", "positive": "exceptionally good", "negative": "exceptionally bad"}
+{"anchor": "E-girl/E-boy", "positive": "internet-influenced subculture", "negative": "traditional social group"}
+{"anchor": "Finsta", "positive": "secondary, private account", "negative": "primary, public account"}
+{"anchor": "GTG", "positive": "need to leave now", "negative": "just arrived and staying"}
+{"anchor": "IDC", "positive": "lack of concern", "negative": "strong interest"}
+{"anchor": "JK", "positive": "playful teasing", "negative": "serious assertion"}
+{"anchor": "LMAO", "positive": "uncontrollable laughter", "negative": "slight smile"}
+{"anchor": "NGL", "positive": "without deception", "negative": "with intent to mislead"}
+{"anchor": "OTP", "positive": "fan-favorite couple", "negative": "unpopular pairing"}
+{"anchor": "POG", "positive": "excitement about gameplay", "negative": "disappointment with gameplay"}
+{"anchor": "ROFL", "positive": "extreme amusement", "negative": "mild interest"}
+{"anchor": "SMH", "positive": "disappointment or disbelief", "negative": "agreement or understanding"}
+{"anchor": "TTYL", "positive": "will communicate later", "negative": "ending communication permanently"}
+{"anchor": "VSCO girl", "positive": "specific casual style", "negative": "formal or elaborate style"}
+{"anchor": "WYM", "positive": "request for clarification", "negative": "statement of understanding"}
+{"anchor": "Zillennial", "positive": "micro-generation blend", "negative": "distinct generation"}
+{"anchor": "Bop", "positive": "very enjoyable song", "negative": "very unpleasant song"}
+{"anchor": "Chad", "positive": "stereotypically confident male", "negative": "stereotypically insecure male"}
+{"anchor": "Dope", "positive": "very cool", "negative": "very uncool"}
+{"anchor": "Ew", "positive": "expression of strong dislike", "negative": "expression of strong liking"}
+{"anchor": "Fave", "positive": "most preferred item", "negative": "least preferred item"}
+{"anchor": "Gucci", "positive": "all good", "negative": "all bad"}
+{"anchor": "Hard pill", "positive": "difficult truth to accept", "negative": "easy lie to believe"}
+{"anchor": "IMO", "positive": "from my perspective", "negative": "universally accepted fact"}
+{"anchor": "Jelly", "positive": "feeling envious of someone", "negative": "feeling happy for someone"}
+{"anchor": "Kween", "positive": "term of high praise for a woman", "negative": "term of strong criticism for a woman"}
+{"anchor": "Lame", "positive": "unimpressive", "negative": "impressive"}
+{"anchor": "Noob", "positive": "new and unskilled player", "negative": "experienced and skilled player"}
+{"anchor": "Oof size", "positive": "magnitude of a mistake", "negative": "insignificance of an error"}
+{"anchor": "Poggers", "positive": "enthusiastic approval", "negative": "strong disapproval"}
+{"anchor": "Rizz", "positive": "ability to attract romantically", "negative": "lack of romantic appeal"}
+{"anchor": "Simp alert", "positive": "warning of excessive flattery", "negative": "sign of complete disinterest"}
+{"anchor": "Thirsty", "positive": "overly eager for attention", "negative": "completely uninterested in attention"}
+{"anchor": "Unbothered", "positive": "calm and unaffected", "negative": "highly distressed and affected"}
+{"anchor": "Vibes", "positive": "overall emotional feeling", "negative": "specific logical thought"}
+{"anchor": "Wack", "positive": "very poor quality", "negative": "very high quality"}
+{"anchor": "Yeet or be yeeted", "positive": "act quickly or be left behind", "negative": "take your time and be cautious"}
+{"anchor": "Zesty", "positive": "full of enthusiasm and energy", "negative": "lacking enthusiasm and energy"}
+{"anchor": "Slay", "positive": "excel", "negative": "fail"}
+{"anchor": "Vibe check", "positive": "intuition", "negative": "analysis"}
+{"anchor": "No cap", "positive": "truth", "negative": "lie"}
+{"anchor": "Low-key", "positive": "quietly", "negative": "loudly"}
+{"anchor": "High-key", "positive": "obviously", "negative": "secretly"}
+{"anchor": "Sus", "positive": "doubt", "negative": "trust"}
+{"anchor": "Bet", "positive": "yes", "negative": "no"}
+{"anchor": "Yeet", "positive": "force", "negative": "gentle"}
+{"anchor": "Mood", "positive": "feeling", "negative": "idea"}
+{"anchor": "Simp", "positive": "eager", "negative": "indifferent"}
+{"anchor": "Stan", "positive": "idolize", "negative": "despise"}
+{"anchor": "Spill the tea", "positive": "reveal info", "negative": "hide info"}
+{"anchor": "Drip", "positive": "style", "negative": "plainness"}
+{"anchor": "Bussin'", "positive": "tasty", "negative": "gross"}
+{"anchor": "Fire", "positive": "great", "negative": "awful"}
+{"anchor": "Salty", "positive": "upset", "negative": "happy"}
+{"anchor": "Ghosted", "positive": "vanished", "negative": "stayed"}
+{"anchor": "Flex", "positive": "show off", "negative": "hide"}
+{"anchor": "Boujee", "positive": "fancy", "negative": "simple"}
+{"anchor": "Basic", "positive": "normal", "negative": "unique"}
+{"anchor": "Wig snatched", "positive": "astounded", "negative": "unimpressed"}
+{"anchor": "Finna", "positive": "will", "negative": "did"}
+{"anchor": "Fr", "positive": "real", "negative": "fake"}
+{"anchor": "Low-key flex", "positive": "subtle brag", "negative": "obvious complaint"}
+{"anchor": "Main character", "positive": "focus", "negative": "ignore"}
+{"anchor": "It's giving...", "positive": "suggests", "negative": "denies"}
+{"anchor": "And I oop...", "positive": "mistake", "negative": "success"}
+{"anchor": "Big yikes", "positive": "embarrassment", "negative": "pride"}
+{"anchor": "Canceled", "positive": "rejected", "negative": "accepted"}
+{"anchor": "Chasing clout", "positive": "fame", "negative": "obscurity"}
+{"anchor": "Fam", "positive": "kin", "negative": "stranger"}
+{"anchor": "Glow up", "positive": "improve", "negative": "decline"}
+{"anchor": "Hits different", "positive": "unique", "negative": "common"}
+{"anchor": "Iykyk", "positive": "secret", "negative": "public"}
+{"anchor": "Keep it 100", "positive": "honest", "negative": "dishonest"}
+{"anchor": "Get this bread", "positive": "earn", "negative": "lose"}
+{"anchor": "No cap on god", "positive": "truth", "negative": "lie"}
+{"anchor": "Ok boomer", "positive": "old view", "negative": "new view"}
+{"anchor": "Periodt", "positive": "end", "negative": "continue"}
+{"anchor": "Sheesh", "positive": "wow", "negative": "nah"}
+{"anchor": "That's cringe", "positive": "awkward", "negative": "cool"}
+{"anchor": "Vibing", "positive": "enjoy", "negative": "dislike"}
+{"anchor": "Woke", "positive": "aware", "negative": "unaware"}
+{"anchor": "Yass queen", "positive": "support", "negative": "oppose"}
+{"anchor": "Zoomer", "positive": "gen z", "negative": "gen x"}
+{"anchor": "Bae", "positive": "love", "negative": "hate"}
+{"anchor": "FOMO", "positive": "fear", "negative": "joy"}
+{"anchor": "GOAT", "positive": "best", "negative": "worst"}
+{"anchor": "Hype beast", "positive": "fanatic", "negative": "indifferent"}
+{"anchor": "IRL", "positive": "real", "negative": "virtual"}
+{"anchor": "JOMO", "positive": "peace", "negative": "anxiety"}
+{"anchor": "LIT", "positive": "fun", "negative": "dull"}
+{"anchor": "NPC", "positive": "background", "negative": "center"}
+{"anchor": "Oof", "positive": "ouch", "negative": "yay"}
+{"anchor": "POV", "positive": "view", "negative": "story"}
+{"anchor": "Ratio", "positive": "negative", "negative": "positive"}
+{"anchor": "Snatched", "positive": "perfect", "negative": "awful"}
+{"anchor": "TBH", "positive": "honest", "negative": "lie"}
+{"anchor": "V", "positive": "very", "negative": "not"}
+{"anchor": "WYD", "positive": "doing", "negative": "going"}
+{"anchor": "Zaddy", "positive": "hot", "negative": "ugly"}
+{"anchor": "AF", "positive": "very", "negative": "not"}
+{"anchor": "Big mad", "positive": "angry", "negative": "happy"}
+{"anchor": "CEO of...", "positive": "expert", "negative": "worst"}
+{"anchor": "Dank", "positive": "good", "negative": "bad"}
+{"anchor": "E-girl/E-boy", "positive": "online", "negative": "offline"}
+{"anchor": "Finsta", "positive": "private", "negative": "public"}
+{"anchor": "GTG", "positive": "leave", "negative": "stay"}
+{"anchor": "IDC", "positive": "don't care", "negative": "care"}
+{"anchor": "JK", "positive": "joke", "negative": "serious"}
+{"anchor": "LMAO", "positive": "laugh", "negative": "cry"}
+{"anchor": "NGL", "positive": "truth", "negative": "lie"}
+{"anchor": "OTP", "positive": "ideal", "negative": "bad"}
+{"anchor": "POG", "positive": "win", "negative": "lose"}
+{"anchor": "ROFL", "positive": "laugh", "negative": "sit"}
+{"anchor": "SMH", "positive": "disapprove", "negative": "approve"}
+{"anchor": "TTYL", "positive": "bye", "negative": "hi"}
+{"anchor": "VSCO girl", "positive": "style", "negative": "no style"}
+{"anchor": "WYM", "positive": "ask", "negative": "tell"}
+{"anchor": "Zillennial", "positive": "mix", "negative": "pure"}
+{"anchor": "Bop", "positive": "hit", "negative": "flop"}
+{"anchor": "Chad", "positive": "alpha", "negative": "beta"}
+{"anchor": "Dope", "positive": "cool", "negative": "uncool"}
+{"anchor": "Ew", "positive": "dislike", "negative": "like"}
+{"anchor": "Fave", "positive": "best", "negative": "worst"}
+{"anchor": "Gucci", "positive": "good", "negative": "bad"}
+{"anchor": "Hard pill", "positive": "tough", "negative": "easy"}
+{"anchor": "IMO", "positive": "think", "negative": "know"}
+{"anchor": "Jelly", "positive": "envy", "negative": "joy"}
+{"anchor": "Kween", "positive": "queen", "negative": "peasant"}
+{"anchor": "Lame", "positive": "bad", "negative": "good"}
+{"anchor": "Noob", "positive": "new", "negative": "old"}
+{"anchor": "Oof size", "positive": "big", "negative": "small"}
+{"anchor": "Poggers", "positive": "happy", "negative": "sad"}
+{"anchor": "Rizz", "positive": "charm", "negative": "none"}
+{"anchor": "Simp alert", "positive": "warning", "negative": "praise"}
+{"anchor": "Thirsty", "positive": "eager", "negative": "apathetic"}
+{"anchor": "Unbothered", "positive": "calm", "negative": "upset"}
+{"anchor": "Vibes", "positive": "feel", "negative": "think"}
+{"anchor": "Wack", "positive": "bad", "negative": "good"}
+{"anchor": "Yeet or be yeeted", "positive": "act", "negative": "wait"}
+{"anchor": "Zesty", "positive": "lively", "negative": "dull"}
+{"anchor": "Slay", "positive": "succeed", "negative": "fail"}
+{"anchor": "Vibe check", "positive": "feeling", "negative": "logic"}
+{"anchor": "No cap", "positive": "truthful", "negative": "lying"}
+{"anchor": "Low-key", "positive": "understated", "negative": "obvious"}
+{"anchor": "High-key", "positive": "intense", "negative": "mild"}
+{"anchor": "Sus", "positive": "suspicious", "negative": "trustworthy"}
+{"anchor": "Bet", "positive": "okay", "negative": "no way"}
+{"anchor": "Yeet", "positive": "throw hard", "negative": "catch gently"}
+{"anchor": "Mood", "positive": "relatable feeling", "negative": "unfamiliar feeling"}
+{"anchor": "Simp", "positive": "adores", "negative": "dislikes"}
+{"anchor": "Stan", "positive": "big fan", "negative": "strong detractor"}
+{"anchor": "Spill the tea", "positive": "share info", "negative": "keep secret"}
+{"anchor": "Drip", "positive": "good style", "negative": "bad style"}
+{"anchor": "Bussin'", "positive": "delicious food", "negative": "disgusting food"}
+{"anchor": "Fire", "positive": "amazing thing", "negative": "terrible thing"}
+{"anchor": "Salty", "positive": "bitter feeling", "negative": "sweet feeling"}
+{"anchor": "Ghosted", "positive": "ignored someone", "negative": "contacted someone"}
+{"anchor": "Flex", "positive": "show off wealth", "negative": "hide wealth"}
+{"anchor": "Boujee", "positive": "expensive taste", "negative": "cheap taste"}
+{"anchor": "Basic", "positive": "common thing", "negative": "unique thing"}
+{"anchor": "Wig snatched", "positive": "very impressed", "negative": "not impressed"}
+{"anchor": "Finna", "positive": "going to do", "negative": "already did"}
+{"anchor": "Fr", "positive": "for real", "negative": "not real"}
+{"anchor": "Low-key flex", "positive": "subtle brag", "negative": "obvious complaint"}
+{"anchor": "Main character", "positive": "central role", "negative": "minor role"}
+{"anchor": "It's giving...", "positive": "similar to", "negative": "different from"}
+{"anchor": "And I oop...", "positive": "surprising mistake", "negative": "expected success"}
+{"anchor": "Big yikes", "positive": "very awkward", "negative": "very cool"}
+{"anchor": "Canceled", "positive": "socially out", "negative": "socially in"}
+{"anchor": "Chasing clout", "positive": "seeking fame", "negative": "avoiding fame"}
+{"anchor": "Fam", "positive": "close friends", "negative": "strangers"}
+{"anchor": "Glow up", "positive": "improved appearance", "negative": "worsened appearance"}
+{"anchor": "Hits different", "positive": "feels unique", "negative": "feels normal"}
+{"anchor": "Iykyk", "positive": "insider knowledge", "negative": "common knowledge"}
+{"anchor": "Keep it 100", "positive": "be honest", "negative": "be dishonest"}
+{"anchor": "Get this bread", "positive": "make money", "negative": "lose money"}
+{"anchor": "No cap on god", "positive": "truly honest", "negative": "definitely lying"}
+{"anchor": "Ok boomer", "positive": "old perspective", "negative": "new perspective"}
+{"anchor": "Periodt", "positive": "end of discussion", "negative": "start of discussion"}
+{"anchor": "Sheesh", "positive": "exaggerated reaction", "negative": "understated reaction"}
+{"anchor": "That's cringe", "positive": "very embarrassing", "negative": "very admirable"}
+{"anchor": "Vibing", "positive": "enjoying the feeling", "negative": "disliking the feeling"}
+{"anchor": "Woke", "positive": "socially aware", "negative": "socially unaware"}
+{"anchor": "Yass queen", "positive": "strong approval", "negative": "strong disapproval"}
+{"anchor": "Zoomer", "positive": "gen z person", "negative": "older person"}
+{"anchor": "Bae", "positive": "loved one", "negative": "disliked person"}
+{"anchor": "FOMO", "positive": "fear of missing out", "negative": "joy of missing out"}
+{"anchor": "GOAT", "positive": "best ever", "negative": "worst ever"}
+{"anchor": "Hype beast", "positive": "loves trends", "negative": "dislikes trends"}
+{"anchor": "IRL", "positive": "in real life", "negative": "online world"}
+{"anchor": "JOMO", "positive": "happy to miss out", "negative": "sad to miss out"}
+{"anchor": "LIT", "positive": "very exciting", "negative": "very boring"}
+{"anchor": "NPC", "positive": "background person", "negative": "important person"}
+{"anchor": "Oof", "positive": "expression of pain", "negative": "expression of joy"}
+{"anchor": "POV", "positive": "your perspective", "negative": "someone else's perspective"}
+{"anchor": "Ratio", "positive": "more replies than likes (bad)", "negative": "more likes than replies (good)"}
+{"anchor": "Snatched", "positive": "very attractive", "negative": "very unattractive"}
+{"anchor": "TBH", "positive": "to be honest", "negative": "to be dishonest"}
+{"anchor": "V", "positive": "very", "negative": "not"}
+{"anchor": "WYD", "positive": "what are you doing?", "negative": "where are you going?"}
+{"anchor": "Zaddy", "positive": "stylish older man", "negative": "unstylish older man"}
+{"anchor": "AF", "positive": "extremely", "negative": "not at all"}
+{"anchor": "Big mad", "positive": "very angry", "negative": "very calm"}
+{"anchor": "CEO of...", "positive": "best at doing", "negative": "worst at doing"}
+{"anchor": "Dank", "positive": "really good", "negative": "really bad"}
+{"anchor": "E-girl/E-boy", "positive": "online aesthetic person", "negative": "offline traditional person"}
+{"anchor": "Finsta", "positive": "secret social account", "negative": "main social account"}
+{"anchor": "GTG", "positive": "have to go", "negative": "just arrived"}
+{"anchor": "IDC", "positive": "don't care", "negative": "care a lot"}
+{"anchor": "JK", "positive": "just kidding", "negative": "being serious"}
+{"anchor": "LMAO", "positive": "laughing a lot", "negative": "not laughing"}
+{"anchor": "NGL", "positive": "not going to lie", "negative": "going to lie"}
+{"anchor": "OTP", "positive": "favorite couple", "negative": "hated couple"}
+{"anchor": "POG", "positive": "exciting moment", "negative": "boring moment"}
+{"anchor": "ROFL", "positive": "rolling on floor laughing", "negative": "sitting still"}
+{"anchor": "SMH", "positive": "shaking head in disapproval", "negative": "nodding head in approval"}
+{"anchor": "TTYL", "positive": "talk to you later", "negative": "goodbye forever"}
+{"anchor": "VSCO girl", "positive": "specific casual style", "negative": "different style"}
+{"anchor": "WYM", "positive": "what do you mean?", "negative": "i understand you."}
+{"anchor": "Zillennial", "positive": "mix of gen y and z", "negative": "pure gen y or z"}
+{"anchor": "Bop", "positive": "great song", "negative": "terrible song"}
+{"anchor": "Chad", "positive": "confident male", "negative": "unconfident male"}
+{"anchor": "Dope", "positive": "very cool", "negative": "very uncool"}
+{"anchor": "Ew", "positive": "disgust expression", "negative": "liking expression"}
+{"anchor": "Fave", "positive": "favorite", "negative": "least favorite"}
+{"anchor": "Gucci", "positive": "all good", "negative": "all bad"}
+{"anchor": "Hard pill", "positive": "difficult truth", "negative": "easy lie"}
+{"anchor": "IMO", "positive": "in my opinion", "negative": "it's a fact"}
+{"anchor": "Jelly", "positive": "feeling envious", "negative": "feeling happy for others"}
+{"anchor": "Kween", "positive": "praised woman", "negative": "criticized woman"}
+{"anchor": "Lame", "positive": "uncool", "negative": "very cool"}
+{"anchor": "Noob", "positive": "new player", "negative": "experienced player"}
+{"anchor": "Oof size", "positive": "level of mistake", "negative": "level of success"}
+{"anchor": "Poggers", "positive": "happy reaction", "negative": "sad reaction"}
+{"anchor": "Rizz", "positive": "attractiveness", "negative": "unattractiveness"}
+{"anchor": "Simp alert", "positive": "warning of over-adoration", "negative": "sign of disrespect"}
+{"anchor": "Thirsty", "positive": "wanting attention", "negative": "avoiding attention"}
+{"anchor": "Unbothered", "positive": "not worried", "negative": "very worried"}
+{"anchor": "Vibes", "positive": "overall feeling", "negative": "specific thought"}
+{"anchor": "Wack", "positive": "really bad", "negative": "really good"}
+{"anchor": "Yeet or be yeeted", "positive": "act quickly", "negative": "wait slowly"}
+{"anchor": "Zesty", "positive": "full of energy", "negative": "lacking energy"}
+{"anchor": "Slay", "positive": "dominate", "negative": "lose"}
+{"anchor": "Vibe check", "positive": "atmosphere", "negative": "data"}
+{"anchor": "No cap", "positive": "truthfully", "negative": "falsely"}
+{"anchor": "Low-key", "positive": "subtly", "negative": "obviously"}
+{"anchor": "High-key", "positive": "openly", "negative": "secretly"}
+{"anchor": "Sus", "positive": "suspicion", "negative": "certainty"}
+{"anchor": "Bet", "positive": "affirm", "negative": "deny"}
+{"anchor": "Yeet", "positive": "hurl", "negative": "catch"}
+{"anchor": "Mood", "positive": "emotion", "negative": "reason"}
+{"anchor": "Simp", "positive": "flatter", "negative": "insult"}
+{"anchor": "Stan", "positive": "adore", "negative": "loathe"}
+{"anchor": "Spill the tea", "positive": "gossip", "negative": "be quiet"}
+{"anchor": "Drip", "positive": "style", "negative": "no style"}
+{"anchor": "Bussin'", "positive": "deliciously", "negative": "disgustingly"}
+{"anchor": "Fire", "positive": "excellent", "negative": "terrible"}
+{"anchor": "Salty", "positive": "bitterly", "negative": "sweetly"}
+{"anchor": "Ghosted", "positive": "disappeared", "negative": "stayed present"}
+{"anchor": "Flex", "positive": "show off", "negative": "hide"}
+{"anchor": "Boujee", "positive": "luxurious", "negative": "plain"}
+{"anchor": "Basic", "positive": "commonplace", "negative": "rare"}
+{"anchor": "Wig snatched", "positive": "amazed", "negative": "unmoved"}
+{"anchor": "Finna", "positive": "will do", "negative": "already did"}
+{"anchor": "Fr", "positive": "truly", "negative": "falsely"}
+{"anchor": "Low-key flex", "positive": "humblebrag", "negative": "outright complaint"}
+{"anchor": "Main character", "positive": "central", "negative": "peripheral"}
+{"anchor": "It's giving...", "positive": "implies", "negative": "contradicts"}
+{"anchor": "And I oop...", "positive": "blunder", "negative": "triumph"}
+{"anchor": "Big yikes", "positive": "embarrassing", "negative": "admirable"}
+{"anchor": "Canceled", "positive": "rejected", "negative": "welcomed"}
+{"anchor": "Chasing clout", "positive": "seeking attention", "negative": "avoiding attention"}
+{"anchor": "Fam", "positive": "close", "negative": "distant"}
+{"anchor": "Glow up", "positive": "improve", "negative": "worsen"}
+{"anchor": "Hits different", "positive": "uniquely", "negative": "ordinarily"}
+{"anchor": "Iykyk", "positive": "secretly known", "negative": "widely known"}
+{"anchor": "Keep it 100", "positive": "honestly", "negative": "dishonestly"}
+{"anchor": "Get this bread", "positive": "earn", "negative": "spend"}
+{"anchor": "No cap on god", "positive": "undeniably true", "negative": "definitely false"}
+{"anchor": "Ok boomer", "positive": "old-fashioned", "negative": "modern"}
+{"anchor": "Periodt", "positive": "finally", "negative": "in progress"}
+{"anchor": "Sheesh", "positive": "exaggeratedly", "negative": "mildly"}
+{"anchor": "That's cringe", "positive": "awkwardly", "negative": "smoothly"}
+{"anchor": "Vibing", "positive": "enjoying", "negative": "disliking"}
+{"anchor": "Woke", "positive": "awarely", "negative": "unawarely"}
+{"anchor": "Yass queen", "positive": "enthusiastically approve", "negative": "strongly disapprove"}
+{"anchor": "Zoomer", "positive": "gen z person", "negative": "older person"}
+{"anchor": "Bae", "positive": "beloved", "negative": "hated"}
+{"anchor": "FOMO", "positive": "anxiously", "negative": "calmly"}
+{"anchor": "GOAT", "positive": "best ever", "negative": "worst ever"}
+{"anchor": "Hype beast", "positive": "trend follower", "negative": "trendsetter"}
+{"anchor": "IRL", "positive": "physically", "negative": "digitally"}
+{"anchor": "JOMO", "positive": "contentedly", "negative": "restlessly"}
+{"anchor": "LIT", "positive": "excitingly", "negative": "boringly"}
+{"anchor": "NPC", "positive": "unremarkable", "negative": "remarkable"}
+{"anchor": "Oof", "positive": "disappointedly", "negative": "joyfully"}
+{"anchor": "POV", "positive": "personally", "negative": "objectively"}
+{"anchor": "Ratio", "positive": "negatively received", "negative": "positively received"}
+{"anchor": "Snatched", "positive": "perfectly", "negative": "poorly"}
+{"anchor": "TBH", "positive": "honestly", "negative": "dishonestly"}
+{"anchor": "V", "positive": "very", "negative": "not"}
+{"anchor": "WYD", "positive": "doing now", "negative": "doing later"}
+{"anchor": "Zaddy", "positive": "stylish older", "negative": "unstylish younger"}
+{"anchor": "AF", "positive": "extremely", "negative": "slightly"}
+{"anchor": "Big mad", "positive": "furiously", "negative": "peacefully"}
+{"anchor": "CEO of...", "positive": "expertly", "negative": "ineptly"}
+{"anchor": "Dank", "positive": "excellently", "negative": "terribly"}
+{"anchor": "E-girl/E-boy", "positive": "online persona", "negative": "offline self"}
+{"anchor": "Finsta", "positive": "privately", "negative": "publicly"}
+{"anchor": "GTG", "positive": "leaving now", "negative": "just arriving"}
+{"anchor": "IDC", "positive": "indifferently", "negative": "caringly"}
+{"anchor": "JK", "positive": "jokingly", "negative": "seriously"}
+{"anchor": "LMAO", "positive": "hysterically", "negative": "calmly"}
+{"anchor": "NGL", "positive": "frankly", "negative": "deceptively"}
+{"anchor": "OTP", "positive": "ideally paired", "negative": "poorly matched"}
+{"anchor": "POG", "positive": "excitedly", "negative": "unenthusiastically"}
+{"anchor": "ROFL", "positive": "uproariously", "negative": "mildly amused"}
+{"anchor": "SMH", "positive": "disapprovingly", "negative": "approvingly"}
+{"anchor": "TTYL", "positive": "later", "negative": "never"}
+{"anchor": "VSCO girl", "positive": "casually styled", "negative": "formally styled"}
+{"anchor": "WYM", "positive": "asking to clarify", "negative": "stating understanding"}
+{"anchor": "Zillennial", "positive": "hybrid generation", "negative": "distinct generation"}
+{"anchor": "Bop", "positive": "great song", "negative": "awful song"}
+{"anchor": "Chad", "positive": "confidently male", "negative": "insecurely male"}
+{"anchor": "Dope", "positive": "cool", "negative": "uncool"}
+{"anchor": "Ew", "positive": "disgustedly", "negative": "lovingly"}
+{"anchor": "Fave", "positive": "favorite", "negative": "least favorite"}
+{"anchor": "Gucci", "positive": "well", "negative": "poorly"}
+{"anchor": "Hard pill", "positive": "difficult truth", "negative": "easy lie"}
+{"anchor": "IMO", "positive": "personally", "negative": "generally"}
+{"anchor": "Jelly", "positive": "enviously", "negative": "happily for others"}
+{"anchor": "Kween", "positive": "praisingly", "negative": "critically"}
+{"anchor": "Lame", "positive": "uncool", "negative": "cool"}
+{"anchor": "Noob", "positive": "inexperienced", "negative": "experienced"}
+{"anchor": "Oof size", "positive": "greatly", "negative": "slightly"}
+{"anchor": "Poggers", "positive": "happily", "negative": "sadly"}
+{"anchor": "Rizz", "positive": "charmingly", "negative": "awkwardly"}
+{"anchor": "Simp alert", "positive": "overly admiringly", "negative": "indifferently"}
+{"anchor": "Thirsty", "positive": "eagerly", "negative": "apathetically"}
+{"anchor": "Unbothered", "positive": "calmly", "negative": "anxiously"}
+{"anchor": "Vibes", "positive": "feelings", "negative": "thoughts"}
+{"anchor": "Wack", "positive": "terribly", "negative": "excellently"}
+{"anchor": "Yeet or be yeeted", "positive": "act decisively", "negative": "hesitate cautiously"}
+{"anchor": "Zesty", "positive": "energetically", "negative": "lethargically"}
+{"anchor": "Slay", "positive": "achieve greatly", "negative": "perform poorly"}
+{"anchor": "Vibe check", "positive": "emotional state", "negative": "factual information"}
+{"anchor": "No cap", "positive": "honestly speaking", "negative": "dishonestly speaking"}
+{"anchor": "Low-key", "positive": "in a subtle way", "negative": "in an obvious way"}
+{"anchor": "High-key", "positive": "in an obvious way", "negative": "in a subtle way"}
+{"anchor": "Sus", "positive": "arousing suspicion", "negative": "inspiring trust"}
+{"anchor": "Bet", "positive": "I agree to that", "negative": "I disagree with that"}
+{"anchor": "Yeet", "positive": "to throw forcefully", "negative": "to catch gently"}
+{"anchor": "Mood", "positive": "a shared feeling", "negative": "an individual thought"}
+{"anchor": "Simp", "positive": "someone overly eager", "negative": "someone indifferent"}
+{"anchor": "Stan", "positive": "a devoted fan", "negative": "a strong critic"}
+{"anchor": "Spill the tea", "positive": "share the gossip", "negative": "keep the secret"}
+{"anchor": "Drip", "positive": "stylish clothing", "negative": "unfashionable clothing"}
+{"anchor": "Bussin'", "positive": "tasting very good", "negative": "tasting very bad"}
+{"anchor": "Fire", "positive": "extremely good", "negative": "extremely bad"}
+{"anchor": "Salty", "positive": "feeling resentful", "negative": "feeling content"}
+{"anchor": "Ghosted", "positive": "suddenly stopped contact", "negative": "maintained regular contact"}
+{"anchor": "Flex", "positive": "to show off proudly", "negative": "to hide modestly"}
+{"anchor": "Boujee", "positive": "having expensive taste", "negative": "having inexpensive taste"}
+{"anchor": "Basic", "positive": "lacking originality", "negative": "showing uniqueness"}
+{"anchor": "Wig snatched", "positive": "incredibly impressed", "negative": "completely unimpressed"}
+{"anchor": "Finna", "positive": "planning to do", "negative": "already completed doing"}
+{"anchor": "Fr", "positive": "for real though", "negative": "not really though"}
+{"anchor": "Low-key flex", "positive": "a subtle boast", "negative": "an obvious complaint"}
+{"anchor": "Main character", "positive": "the central person", "negative": "a background person"}
+{"anchor": "It's giving...", "positive": "it feels like", "negative": "it feels unlike"}
+{"anchor": "And I oop...", "positive": "an unexpected slip-up", "negative": "a perfectly executed plan"}
+{"anchor": "Big yikes", "positive": "very embarrassing situation", "negative": "very admirable situation"}
+{"anchor": "Canceled", "positive": "socially rejected by many", "negative": "socially accepted by many"}
+{"anchor": "Chasing clout", "positive": "trying to become famous", "negative": "trying to avoid fame"}
+{"anchor": "Fam", "positive": "close friends or family", "negative": "distant acquaintances or strangers"}
+{"anchor": "Glow up", "positive": "a significant positive change", "negative": "a significant negative change"}
+{"anchor": "Hits different", "positive": "feels uniquely impactful", "negative": "feels typically ordinary"}
+{"anchor": "Iykyk", "positive": "if you know, you know", "negative": "everyone generally knows"}
+{"anchor": "Keep it 100", "positive": "be completely honest", "negative": "be completely dishonest"}
+{"anchor": "Get this bread", "positive": "to earn money", "negative": "to lose money"}
+{"anchor": "No cap on god", "positive": "I'm being absolutely truthful", "negative": "I'm definitely being untruthful"}
+{"anchor": "Ok boomer", "positive": "dismissing an older viewpoint", "negative": "respecting an older viewpoint"}
+{"anchor": "Periodt", "positive": "that's the final statement", "negative": "there's more to discuss"}
+{"anchor": "Sheesh", "positive": "an exaggerated reaction of surprise", "negative": "a very mild reaction of disinterest"}
+{"anchor": "That's cringe", "positive": "that's very embarrassing to watch", "negative": "that's very admirable to watch"}
+{"anchor": "Vibing", "positive": "enjoying the current feeling", "negative": "disliking the current feeling"}
+{"anchor": "Woke", "positive": "aware of social injustices", "negative": "unaware of social injustices"}
+{"anchor": "Yass queen", "positive": "a strong expression of approval for a woman", "negative": "a strong expression of disapproval for a woman"}
+{"anchor": "Zoomer", "positive": "a member of Generation Z", "negative": "a member of an older generation"}
+{"anchor": "Bae", "positive": "a term of endearment for a loved one", "negative": "a term of dislike for an enemy"}
+{"anchor": "FOMO", "positive": "the fear of missing out", "negative": "the joy of missing out"}
+{"anchor": "GOAT", "positive": "the greatest of all time", "negative": "the worst of all time"}
+{"anchor": "Hype beast", "positive": "someone very enthusiastic about trends", "negative": "someone indifferent to current trends"}
+{"anchor": "IRL", "positive": "in real life, offline", "negative": "in the online world"}
+{"anchor": "JOMO", "positive": "the joy of missing out", "negative": "the fear of missing out"}
+{"anchor": "LIT", "positive": "very exciting and fun", "negative": "very dull and boring"}
+{"anchor": "NPC", "positive": "a non-player character, unremarkable person", "negative": "a player character, noteworthy individual"}
+{"anchor": "Oof", "positive": "an expression of discomfort or dismay", "negative": "an expression of joy or excitement"}
+{"anchor": "POV", "positive": "point of view, first-person perspective", "negative": "third-person perspective"}
+{"anchor": "Ratio", "positive": "a high number of negative replies to a post", "negative": "a high number of positive engagements with a post"}
+{"anchor": "Snatched", "positive": "looking extremely good or stylish", "negative": "looking extremely bad or unstylish"}
+{"anchor": "TBH", "positive": "to be honest", "negative": "to be dishonest"}
+{"anchor": "V", "positive": "very", "negative": "not"}
+{"anchor": "WYD", "positive": "what are you doing?", "negative": "where are you going?"}
+{"anchor": "Zaddy", "positive": "an attractive older man with style", "negative": "an unattractive younger man without style"}
+{"anchor": "AF", "positive": "as f***, extremely", "negative": "not at all"}
+{"anchor": "Big mad", "positive": "very angry", "negative": "very calm"}
+{"anchor": "CEO of...", "positive": "the ultimate expert at doing something", "negative": "utterly incompetent at doing something"}
+{"anchor": "Dank", "positive": "exceptionally good or cool", "negative": "exceptionally bad or uncool"}
+{"anchor": "E-girl/E-boy", "positive": "an online persona with a specific aesthetic", "negative": "a traditional offline persona"}
+{"anchor": "Finsta", "positive": "a secondary, private Instagram account", "negative": "a primary, public Instagram account"}
+{"anchor": "GTG", "positive": "got to go, must leave now", "negative": "just arrived and plan to stay"}
+{"anchor": "IDC", "positive": "I don't care", "negative": "I care deeply"}
+{"anchor": "JK", "positive": "just kidding", "negative": "being serious"}
+{"anchor": "LMAO", "positive": "laughing my a** off, very funny", "negative": "not amused at all"}
+{"anchor": "NGL", "positive": "not gonna lie, honestly", "negative": "I am going to lie, dishonestly"}
+{"anchor": "OTP", "positive": "one true pairing, ideal couple", "negative": "a terrible or disliked couple"}
+{"anchor": "POG", "positive": "play of the game, exciting moment", "negative": "an unexciting or disappointing moment"}
+{"anchor": "ROFL", "positive": "rolling on the floor laughing, extremely funny", "negative": "not finding it funny at all"}
+{"anchor": "SMH", "positive": "shaking my head in disapproval", "negative": "nodding my head in approval"}
+{"anchor": "TTYL", "positive": "talk to you later", "negative": "goodbye forever"}
+{"anchor": "VSCO girl", "positive": "a specific casual and trendy aesthetic", "negative": "a completely different aesthetic"}
+{"anchor": "WYM", "positive": "what do you mean?", "negative": "I understand what you mean."}
+{"anchor": "Zillennial", "positive": "someone born on the cusp of Millennials and Gen Z", "negative": "someone clearly within the Millennial or Gen Z generation"}
+{"anchor": "Bop", "positive": "a really good and catchy song", "negative": "a really bad and uncatchy song"}
+{"anchor": "Chad", "positive": "a stereotypical confident and popular male", "negative": "a stereotypical insecure and unpopular male"}
+{"anchor": "Dope", "positive": "very cool or awesome", "negative": "very uncool or awful"}
+{"anchor": "Ew", "positive": "an expression of disgust", "negative": "an expression of delight"}
+{"anchor": "Fave", "positive": "my favorite", "negative": "my least favorite"}
+{"anchor": "Gucci", "positive": "all good, fine", "negative": "all bad, not fine"}
+{"anchor": "Hard pill", "positive": "a difficult truth to accept", "negative": "an easy lie to believe"}
+{"anchor": "IMO", "positive": "in my opinion", "negative": "it's a well-known fact"}
+{"anchor": "Jelly", "positive": "feeling envious of someone", "negative": "feeling happy for someone"}
+{"anchor": "Kween", "positive": "a term of high praise for a woman", "negative": "a term of strong criticism for a woman"}
+{"anchor": "Lame", "positive": "uncool or boring", "negative": "cool or exciting"}
+{"anchor": "Noob", "positive": "a new and inexperienced player", "negative": "an experienced and skilled player"}
+{"anchor": "Oof size", "positive": "the magnitude of a mistake or blunder", "negative": "the insignificance of a minor error"}
+{"anchor": "Poggers", "positive": "an enthusiastic reaction of excitement", "negative": "an unenthusiastic reaction of boredom"}
+{"anchor": "Rizz", "positive": "romantic charm or attractiveness", "negative": "a lack of romantic charm or attractiveness"}
+{"anchor": "Simp alert", "positive": "a warning of someone being overly eager to please", "negative": "a sign of someone being completely disinterested"}
+{"anchor": "Thirsty", "positive": "desperate for attention or approval", "negative": "indifferent to attention or approval"}
+{"anchor": "Unbothered", "positive": "calm and not worried", "negative": "anxious and very worried"}
+{"anchor": "Vibes", "positive": "the overall feeling or atmosphere", "negative": "a specific logical thought or idea"}
+{"anchor": "Wack", "positive": "very bad or uncool", "negative": "very good or cool"}
+{"anchor": "Yeet or be yeeted", "positive": "act quickly and decisively", "negative": "take your time and be cautious"}
+{"anchor": "Zesty", "positive": "full of energy and enthusiasm", "negative": "lacking energy and enthusiasm"}
+{"anchor": "Slay", "positive": "perform exceptionally well", "negative": "perform terribly"}
+{"anchor": "Vibe check", "positive": "assessing the general feeling", "negative": "calculating a numerical value"}
+{"anchor": "No cap", "positive": "speaking truthfully", "negative": "speaking falsely"}
+{"anchor": "Low-key", "positive": "in a subtle or quiet manner", "negative": "in an obvious or loud manner"}
+{"anchor": "High-key", "positive": "in an obvious or intense manner", "negative": "in a subtle or hidden manner"}
+{"anchor": "Sus", "positive": "feeling doubtful or suspicious", "negative": "feeling certain or trusting"}
+{"anchor": "Bet", "positive": "an expression of agreement or acceptance", "negative": "an expression of disagreement or refusal"}
+{"anchor": "Yeet", "positive": "to throw something with force or enthusiasm", "negative": "to carefully catch something"}
+{"anchor": "Mood", "positive": "a feeling that is relatable to others", "negative": "a thought that is unique to oneself"}
+{"anchor": "Simp", "positive": "someone who does too much for someone they like", "negative": "someone who shows no interest in someone"}
+{"anchor": "Stan", "positive": "an extremely enthusiastic and devoted fan", "negative": "someone who strongly dislikes a particular person"}
+{"anchor": "Spill the tea", "positive": "to share interesting or secret information", "negative": "to keep important information private"}
+{"anchor": "Drip", "positive": "a very stylish or fashionable appearance", "negative": "a very unfashionable or messy appearance"}
+{"anchor": "Bussin'", "positive": "describing food that tastes exceptionally good", "negative": "describing food that tastes exceptionally bad"}
+{"anchor": "Fire", "positive": "describing something as very good or impressive", "negative": "describing something as very bad or unimpressive"}
+{"anchor": "Salty", "positive": "feeling annoyed, upset, or bitter about something", "negative": "feeling happy, content, or pleased about something"}
+{"anchor": "Ghosted", "positive": "when someone suddenly cuts off all communication", "negative": "when someone maintains consistent communication"}
+{"anchor": "Flex", "positive": "to show off one's possessions or abilities", "negative": "to be modest about one's possessions or abilities"}
+{"anchor": "Boujee", "positive": "having expensive and luxurious tastes or habits", "negative": "having inexpensive and simple tastes or habits"}
+{"anchor": "Basic", "positive": "unoriginal, mainstream, or lacking individuality", "negative": "original, unique, or highly individualistic"}
+{"anchor": "Wig snatched", "positive": "an expression of being extremely impressed or shocked", "negative": "an expression of being completely unimpressed or unsurprised"}
+{"anchor": "Finna", "positive": "a contraction of 'fixing to' or 'going to'", "negative": "a contraction indicating something has already been done"}
+{"anchor": "Fr", "positive": "an abbreviation of 'for real', indicating truthfulness", "negative": "an abbreviation indicating falsehood or joking"}
+{"anchor": "Low-key flex", "positive": "a subtle way of bragging about something", "negative": "an obvious way of complaining about something"}
+{"anchor": "Main character", "positive": "acting as if one is the most important person", "negative": "acting as a background or unimportant person"}
+{"anchor": "It's giving...", "positive": "it evokes a certain feeling or impression of", "negative": "it lacks a certain feeling or impression of"}
+{"anchor": "And I oop...", "positive": "an expression of surprise or a minor mistake", "negative": "an expression of expected success or perfect execution"}
+{"anchor": "Big yikes", "positive": "an expression of strong embarrassment or awkwardness", "negative": "an expression of great admiration or approval"}
+{"anchor": "Canceled", "positive": "to be publicly condemned and boycotted", "negative": "to be publicly praised and supported"}
+{"anchor": "Chasing clout", "positive": "trying to gain fame and attention online", "negative": "trying to maintain privacy and avoid attention online"}
+{"anchor": "Fam", "positive": "a term of address for close friends or family", "negative": "a term of address for strangers or distant acquaintances"}
+{"anchor": "Glow up", "positive": "a significant and positive transformation in appearance or life", "negative": "a significant and negative transformation in appearance or life"}
+{"anchor": "Hits different", "positive": "feels uniquely good or impactful compared to others", "negative": "feels typically ordinary or unimpressive compared to others"}
+{"anchor": "Iykyk", "positive": "an abbreviation of 'if you know, you know', implying insider knowledge", "negative": "something that is generally known by everyone"}
+{"anchor": "Keep it 100", "positive": "to be completely honest and genuine", "negative": "to be completely dishonest and fake"}
+{"anchor": "Get this bread", "positive": "a phrase meaning to earn money or secure financial success", "negative": "a phrase meaning to lose money or face financial failure"}
+{"anchor": "No cap on god", "positive": "an emphatic way of saying 'no lie, I swear it's true'", "negative": "an emphatic way of saying 'this is definitely a lie'"}
+{"anchor": "Ok boomer", "positive": "a dismissive reply to someone representing older viewpoints", "negative": "a respectful acknowledgement of someone representing older viewpoints"}
+{"anchor": "Periodt", "positive": "an emphatic way to end a statement, indicating finality", "negative": "a way to indicate that a discussion is ongoing or a question is being asked"}
+{"anchor": "Sheesh", "positive": "an exclamation of surprise, annoyance, or admiration", "negative": "a quiet or indifferent response"}
+{"anchor": "That's cringe", "positive": "that's very embarrassing or awkward to witness", "negative": "that's very cool or admirable to witness"}
+{"anchor": "Vibing", "positive": "enjoying a relaxed or pleasant feeling or atmosphere", "negative": "experiencing a tense or unpleasant feeling or atmosphere"}
+{"anchor": "Woke", "positive": "aware of social and political injustices", "negative": "unaware of social and political injustices"}
+{"anchor": "Yass queen", "positive": "a strong expression of support and encouragement for a woman", "negative": "a strong expression of disapproval or criticism for a woman"}
+{"anchor": "Zoomer", "positive": "a member of Generation Z (born roughly mid-1990s to early 2010s)", "negative": "a member of an older generation like a Millennial or Boomer"}
+{"anchor": "Bae", "positive": "a term of affection for a romantic partner", "negative": "a term of dislike or hatred for an enemy"}
+{"anchor": "FOMO", "positive": "the fear of missing out on experiences others are having", "negative": "the joy of missing out on experiences others are having"}
+{"anchor": "GOAT", "positive": "the greatest of all time", "negative": "the worst of all time"}
+{"anchor": "Hype beast", "positive": "someone very enthusiastic about trendy clothing and accessories", "negative": "someone who is indifferent or dislikes trendy clothing and accessories"}
+{"anchor": "IRL", "positive": "in real life, as opposed to online", "negative": "in the virtual or online world"}
+{"anchor": "JOMO", "positive": "the joy of missing out, finding pleasure in staying in", "negative": "the anxiety or fear of missing out on social events"}
+{"anchor": "LIT", "positive": "very exciting, fun, or excellent", "negative": "very boring, dull, or terrible"}
+{"anchor": "NPC", "positive": "non-player character, someone who seems to lack individuality", "negative": "a player character, someone who is clearly an individual"}
+{"anchor": "Oof", "positive": "an expression of sympathy, pain, or disappointment", "negative": "an expression of joy, excitement, or triumph"}
+{"anchor": "POV", "positive": "point of view, often used in videos to show a first-person perspective", "negative": "a third-person perspective or narrative"}
+{"anchor": "Ratio", "positive": "when a reply to a tweet gets significantly more replies than likes, indicating unpopularity", "negative": "when a tweet gets significantly more likes than replies, indicating popularity"}
+{"anchor": "Snatched", "positive": "looking exceptionally good, stylish, or on point", "negative": "looking exceptionally bad, unstylish, or messy"}
+{"anchor": "TBH", "positive": "to be honest", "negative": "to be dishonest"}
+{"anchor": "V", "positive": "an abbreviation for 'very'", "negative": "an abbreviation for 'not'"}
+{"anchor": "WYD", "positive": "an abbreviation for 'what are you doing?'", "negative": "an abbreviation for 'where are you going?'"}
+{"anchor": "Zaddy", "positive": "an attractive and stylish older man", "negative": "an unattractive and unstylish younger man"}
+{"anchor": "AF", "positive": "as f***, used to emphasize an adjective or adverb", "negative": "not at all"}
+{"anchor": "Big mad", "positive": "very angry", "negative": "very calm"}
+{"anchor": "CEO of...", "positive": "jokingly claiming to be the best at something", "negative": "seriously claiming to be the worst at something"}
+{"anchor": "Dank", "positive": "very good, cool, or high quality", "negative": "very bad, uncool, or low quality"}
+{"anchor": "E-girl/E-boy", "positive": "an online persona with a specific alternative aesthetic", "negative": "a traditional or mainstream offline persona"}
+{"anchor": "Finsta", "positive": "a secondary, private Instagram account often used for more personal posts", "negative": "a primary, public Instagram account used for broader sharing"}
+{"anchor": "GTG", "positive": "an abbreviation for 'got to go', indicating departure", "negative": "an abbreviation for 'good to go', indicating readiness"}
+{"anchor": "IDC", "positive": "an abbreviation for 'I don't care'", "negative": "an abbreviation for 'I care deeply'"}
+{"anchor": "JK", "positive": "an abbreviation for 'just kidding'", "negative": "an abbreviation for 'being serious'"}
+{"anchor": "LMAO", "positive": "an abbreviation for 'laughing my a** off', indicating strong amusement", "negative": "an abbreviation indicating no amusement"}
+{"anchor": "NGL", "positive": "an abbreviation for 'not gonna lie', used to preface a truthful statement", "negative": "an abbreviation used to preface a deceptive statement"}
+{"anchor": "OTP", "positive": "an abbreviation for 'one true pairing', a fan's ideal romantic couple", "negative": "an abbreviation for a disliked or terrible romantic pairing"}
+{"anchor": "POG", "positive": "an abbreviation for 'play of the game' or an expression of excitement", "negative": "an abbreviation for an expression of disappointment or sadness"}
+{"anchor": "ROFL", "positive": "an abbreviation for 'rolling on the floor laughing', indicating extreme amusement", "negative": "an abbreviation indicating mild interest or no amusement"}
+{"anchor": "SMH", "positive": "an abbreviation for 'shaking my head' in disapproval or disbelief", "negative": "an abbreviation for 'nodding my head' in approval or agreement"}
+{"anchor": "TTYL", "positive": "an abbreviation for 'talk to you later', indicating a temporary goodbye", "negative": "an abbreviation indicating a permanent end to communication"}
+{"anchor": "VSCO girl", "positive": "a specific casual and outdoorsy aesthetic popular online", "negative": "a completely different or contrasting aesthetic"}
+{"anchor": "WYM", "positive": "an abbreviation for 'what do you mean?', asking for clarification", "negative": "an abbreviation indicating 'I understand what you mean'"}
+{"anchor": "Zillennial", "positive": "someone who identifies with characteristics of both Millennials and Generation Z", "negative": "someone who clearly identifies with only one of those generations"}
+{"anchor": "Bop", "positive": "a really good and enjoyable song", "negative": "a really bad and unenjoyable song"}
+{"anchor": "Chad", "positive": "a stereotypical confident, popular, and often athletic young male", "negative": "a stereotypical insecure, unpopular, and non-athletic young male"}
+{"anchor": "Dope", "positive": "very cool, awesome, or excellent", "negative": "very uncool, awful, or terrible"}
+{"anchor": "Ew", "positive": "an expression of disgust or dislike", "negative": "an expression of attraction or liking"}
+{"anchor": "Fave", "positive": "short for 'favorite'", "negative": "short for 'least favorite'"}
+{"anchor": "Gucci", "positive": "good, great, or fine", "negative": "bad, terrible, or not fine"}
+{"anchor": "Hard pill", "positive": "a difficult truth to accept or believe", "negative": "an easy lie to accept or believe"}
+{"anchor": "IMO", "positive": "an abbreviation for 'in my opinion'", "negative": "an abbreviation for 'it is a known fact'"}
+{"anchor": "Jelly", "positive": "feeling envious or jealous of someone", "negative": "feeling happy or pleased for someone"}
+{"anchor": "Kween", "positive": "a term of high praise and empowerment for a woman", "negative": "a term of strong criticism or belittlement for a woman"}
+{"anchor": "Lame", "positive": "uncool, boring, or uninspiring", "negative": "cool, exciting, or inspiring"}
+{"anchor": "Noob", "positive": "a new and inexperienced participant", "negative": "an experienced and skilled participant"}
+{"anchor": "Oof size", "positive": "the degree or magnitude of a mistake or blunder", "negative": "the degree or magnitude of a success or achievement"}
+{"anchor": "Poggers", "positive": "an enthusiastic expression of excitement or approval", "negative": "an unenthusiastic expression of disappointment or sadness"}
+{"anchor": "Rizz", "positive": "charm and attractiveness, especially romantic", "negative": "a lack of charm and attractiveness"}
+{"anchor": "Simp alert", "positive": "a warning that someone is being overly submissive or eager to please", "negative": "a sign that someone is being completely dismissive or disinterested"}
+{"anchor": "Thirsty", "positive": "desperate for attention, approval, or romantic interest", "negative": "indifferent to or avoiding attention, approval, or romantic interest"}
+{"anchor": "Unbothered", "positive": "calm and not affected by something", "negative": "anxious and greatly affected by something"}
+{"anchor": "Vibes", "positive": "the overall emotional feeling or atmosphere of a situation", "negative": "specific logical thoughts or details of a situation"}
+{"anchor": "Wack", "positive": "very bad, uncool, or of poor quality", "negative": "very good, cool, or of high quality"}
+{"anchor": "Yeet or be yeeted", "positive": "act quickly and decisively or be left behind", "negative": "take your time and be cautious to avoid mistakes"}
+{"anchor": "Zesty", "positive": "full of energy, enthusiasm, and liveliness", "negative": "lacking energy, enthusiasm, and liveliness"}
+{"anchor": "Slay", "positive": "to do something exceptionally well", "negative": "to fail miserably at something"}
+{"anchor": "Vibe check", "positive": "a casual assessment of someone's or a situation's feeling", "negative": "a formal evaluation based on specific criteria"}
+{"anchor": "No cap", "positive": "a phrase indicating that one is telling the truth", "negative": "a phrase indicating that one is telling a lie"}
+{"anchor": "Low-key", "positive": "in a subtle, understated, or quiet way", "negative": "in an obvious, overt, or loud way"}
+{"anchor": "High-key", "positive": "in an obvious, overt, or intense way", "negative": "in a subtle, understated, or quiet way"}
+{"anchor": "Sus", "positive": "short for 'suspicious', feeling that something is not right", "negative": "feeling that something is trustworthy and reliable"}
+{"anchor": "Bet", "positive": "an affirmative response, indicating agreement or acceptance", "negative": "a negative response, indicating disagreement or refusal"}
+{"anchor": "Yeet", "positive": "to throw something with force, speed, or enthusiasm", "negative": "to carefully and gently place something down"}
+{"anchor": "Mood", "positive": "a feeling or state of mind that is relatable to others", "negative": "a feeling or state of mind that is unique and isolating"}
+{"anchor": "Simp", "positive": "someone who does a lot for someone they like, often without reciprocation", "negative": "someone who is indifferent or even rude to someone"}
+{"anchor": "Stan", "positive": "an extremely enthusiastic and often obsessive fan of someone or something", "negative": "someone who strongly dislikes or hates someone or something"}
+{"anchor": "Spill the tea", "positive": "to share interesting, juicy, or secret information (gossip)", "negative": "to keep important or exciting information to oneself"}
+{"anchor": "Drip", "positive": "a slang term for a very stylish and fashionable outfit or appearance", "negative": "a slang term for a very unstylish or messy outfit or appearance"}
+{"anchor": "Bussin'", "positive": "a slang term to describe food that tastes exceptionally delicious", "negative": "a slang term to describe food that tastes exceptionally disgusting"}
+{"anchor": "Fire", "positive": "a slang term to describe something as very good, cool, or impressive", "negative": "a slang term to describe something as very bad, uncool, or unimpressive"}
+{"anchor": "Salty", "positive": "feeling annoyed, upset, or bitter, often over something minor", "negative": "feeling happy, content, or pleased, often over something significant"}
+{"anchor": "Ghosted", "positive": "when someone suddenly cuts off all communication without explanation", "negative": "when someone maintains consistent and open communication"}
+{"anchor": "Flex", "positive": "to show off one's achievements, possessions, or abilities in a boastful way", "negative": "to be humble and modest about one's achievements, possessions, or abilities"}
+{"anchor": "Boujee", "positive": "having expensive and luxurious tastes or a lifestyle", "negative": "having inexpensive and simple tastes or a lifestyle"}
+{"anchor": "Basic", "positive": "lacking originality, mainstream, or conforming to common trends", "negative": "original, unique, or standing out from common trends"}
+{"anchor": "Wig snatched", "positive": "an expression of being extremely impressed, shocked, or overwhelmed", "negative": "an expression of being completely unimpressed, unsurprised, or unmoved"}
+{"anchor": "Finna", "positive": "a colloquial contraction of 'fixing to' or 'going to', indicating a future action", "negative": "a colloquial contraction indicating a past action that has already been completed"}
+{"anchor": "Fr", "positive": "an abbreviation of 'for real', used to emphasize the truthfulness of a statement", "negative": "an abbreviation used to indicate that a statement is false or a joke"}
+{"anchor": "Low-key flex", "positive": "a subtle or understated way of bragging about something", "negative": "an obvious or overt way of complaining about something"}
+{"anchor": "Main character", "positive": "acting as if one is the most important or central person in a situation", "negative": "acting as a background or unimportant person in a situation"}
+{"anchor": "It's giving...", "positive": "a phrase used to say that something evokes a certain feeling, vibe, or impression of something else", "negative": "a phrase used to say that something lacks a certain feeling, vibe, or impression of something else"}
+{"anchor": "And I oop...", "positive": "an expression of surprise, often after realizing a mistake or something unexpected happening", "negative": "an expression of expected success or when everything goes according to plan"}
+{"anchor": "Big yikes", "positive": "an emphatic expression of strong embarrassment, awkwardness, or disapproval", "negative": "an emphatic expression of great admiration, approval, or excitement"}
+{"anchor": "Canceled", "positive": "to be publicly condemned and boycotted, often online, for problematic behavior", "negative": "to be publicly praised and supported, often online, for admirable behavior"}
+{"anchor": "Chasing clout", "positive": "actively trying to gain fame, attention, and popularity online", "negative": "actively trying to maintain privacy and avoid attention online"}
+{"anchor": "Fam", "positive": "a term of address for close friends or family members, indicating a strong bond", "negative": "a term of address for strangers or distant acquaintances, indicating no bond"}
+{"anchor": "Glow up", "positive": "a significant and positive transformation in one's appearance, style, or overall life", "negative": "a significant and negative transformation in one's appearance, style, or overall life"}
+{"anchor": "Hits different", "positive": "a phrase used to describe something that feels uniquely good or impactful compared to similar things", "negative": "a phrase used to describe something that feels typically ordinary or unimpressive compared to similar things"}
+{"anchor": "Iykyk", "positive": "an abbreviation of 'if you know, you know', implying shared insider knowledge or experience", "negative": "something that is generally known or understood by a wide range of people"}
+{"anchor": "Keep it 100", "positive": "a phrase meaning to be completely honest and genuine with someone", "negative": "a phrase meaning to be completely dishonest and fake with someone"}
+{"anchor": "Get this bread", "positive": "a phrase meaning to earn money or secure financial success, often with a sense of urgency", "negative": "a phrase meaning to lose money or face financial hardship"}
+{"anchor": "No cap on god", "positive": "an emphatic way of saying 'no lie, I swear to God it's true', emphasizing sincerity", "negative": "an emphatic way of saying 'this is definitely a lie, I'm not being serious'"}
+{"anchor": "Ok boomer", "positive": "a dismissive reply to someone representing older, often outdated, viewpoints", "negative": "a respectful and thoughtful engagement with someone representing older viewpoints"}
+{"anchor": "Periodt", "positive": "an emphatic way to end a statement, indicating that the point is final and undeniable", "negative": "a way to indicate that a discussion is ongoing or that a question is being asked"}
+{"anchor": "Sheesh", "positive": "an exclamation used to express surprise, annoyance, or admiration, often with exaggeration", "negative": "a quiet or indifferent response showing a lack of strong emotion"}
+{"anchor": "That's cringe", "positive": "an expression indicating that something is very embarrassing or awkward to witness", "negative": "an expression indicating that something is very cool or admirable to witness"}
+{"anchor": "Vibing", "positive": "enjoying a relaxed, pleasant, or harmonious feeling or atmosphere", "negative": "experiencing a tense, unpleasant, or discordant feeling or atmosphere"}
+{"anchor": "Woke", "positive": "aware of and actively attentive to social and political injustices and inequalities", "negative": "unaware of or indifferent to social and political injustices and inequalities"}
+{"anchor": "Yass queen", "positive": "a strong expression of support, encouragement, and admiration, typically directed towards a woman", "negative": "a strong expression of disapproval, criticism, or belittlement, typically directed towards a woman"}
+{"anchor": "Zoomer", "positive": "a member of Generation Z (born roughly from the mid-1990s to the early 2010s)", "negative": "a member of an older generation, such as a Millennial, Generation X, or Baby Boomer"}
+{"anchor": "Bae", "positive": "a term of endearment for a romantic partner or someone one cares for deeply", "negative": "a term of dislike or contempt for an enemy or someone one despises"}
+{"anchor": "FOMO", "positive": "the anxiety or fear of missing out on exciting or interesting experiences that others are having", "negative": "the joy of missing out, finding contentment in staying in and not participating"}
+{"anchor": "GOAT", "positive": "an acronym for 'Greatest Of All Time', used to describe someone considered the best in their field", "negative": "an acronym for 'Worst Of All Time' (though less common), used to describe someone considered the worst"}
+{"anchor": "Hype beast", "positive": "someone who is very enthusiastic about and collects trendy clothing, especially streetwear and designer items", "negative": "someone who is indifferent to or dislikes trendy clothing and designer items"}
+{"anchor": "IRL", "positive": "an abbreviation for 'in real life', used to refer to experiences and interactions offline", "negative": "an abbreviation referring to experiences and interactions in the virtual or online world"}
+{"anchor": "JOMO", "positive": "an acronym for 'joy of missing out', the pleasure found in staying in and not participating in social activities", "negative": "an acronym for 'fear of missing out', the anxiety of not participating in social activities"}
+{"anchor": "LIT", "positive": "a slang term meaning very exciting, fun, or excellent", "negative": "a slang term meaning very boring, dull, or terrible"}
+{"anchor": "NPC", "positive": "an abbreviation for 'non-player character', used to describe someone who seems to lack individuality or act predictably", "negative": "an abbreviation for 'player character', someone who is clearly an individual and acts unpredictably"}
+{"anchor": "Oof", "positive": "an interjection used to express sympathy, pain, surprise, or disappointment", "negative": "an interjection used to express joy, excitement, or triumph"}
+{"anchor": "POV", "positive": "an abbreviation for 'point of view', often used in videos to show a first-person perspective", "negative": "a third-person perspective or narrative in a video or story"}
+{"anchor": "Ratio", "positive": "on social media, when a reply to a post gets significantly more replies than likes, indicating unpopularity or controversy", "negative": "on social media, when a post gets significantly more likes than replies, indicating popularity or agreement"}
+{"anchor": "Snatched", "positive": "a slang term meaning exceptionally good, stylish, attractive, or on point", "negative": "a slang term meaning exceptionally bad, unstylish, unattractive, or off point"}
+{"anchor": "TBH", "positive": "an abbreviation for 'to be honest', used to preface a sincere statement", "negative": "an abbreviation for 'to be dishonest', used to preface a lie"}
+{"anchor": "V", "positive": "an abbreviation for 'very', used to intensify an adjective or adverb", "negative": "an abbreviation for 'not', used to negate an adjective or adverb"}
+{"anchor": "WYD", "positive": "an abbreviation for 'what are you doing?', a casual inquiry about someone's current activity", "negative": "an abbreviation for 'where are you going?', an inquiry about someone's destination"}
+{"anchor": "Zaddy", "positive": "a slang term for an attractive and stylish older man", "negative": "a slang term for an unattractive and unstylish younger man"}
+{"anchor": "AF", "positive": "an abbreviation for 'as f***', used to strongly emphasize an adjective or adverb", "negative": "an abbreviation meaning 'not at all', used to strongly negate an adjective or adverb"}
+{"anchor": "Big mad", "positive": "very angry or furious", "negative": "very calm or peaceful"}
+{"anchor": "CEO of...", "positive": "a humorous way of claiming to be the best or most skilled at something, often trivial", "negative": "a serious way of claiming to be the worst or most unskilled at something"}
+{"anchor": "Dank", "positive": "a slang term for something that is very good, cool, or of high quality, often used ironically", "negative": "a slang term for something that is very bad, uncool, or of low quality"}
+{"anchor": "E-girl/E-boy", "positive": "an online persona with a specific alternative or edgy aesthetic, often popular on platforms like TikTok", "negative": "a traditional or mainstream offline persona without a strong online presence"}
+{"anchor": "Finsta", "positive": "a secondary, private Instagram account used to share more personal or unfiltered content with a smaller group", "negative": "a primary, public Instagram account used to share curated content with a wider audience"}
+{"anchor": "GTG", "positive": "an abbreviation for 'got to go', indicating that one needs to leave or end a conversation", "negative": "an abbreviation for 'good to go', indicating that one is ready to start or continue something"}
+{"anchor": "IDC", "positive": "an abbreviation for 'I don't care', expressing indifference or lack of concern", "negative": "an abbreviation for 'I care deeply', expressing strong concern or interest"}
+{"anchor": "JK", "positive": "an abbreviation for 'just kidding', indicating that a previous statement was not serious", "negative": "an abbreviation indicating that a previous statement was serious and not a joke"}
+{"anchor": "LMAO", "positive": "an abbreviation for 'laughing my a** off', indicating strong amusement", "negative": "an abbreviation indicating a lack of amusement or even sadness"}
+{"anchor": "NGL", "positive": "an abbreviation for 'not gonna lie', used to preface a statement intended to be honest", "negative": "an abbreviation used to preface a statement intended to be deceptive"}
+{"anchor": "OTP", "positive": "an abbreviation for 'one true pairing', a fan's ideal romantic couple in a fictional work or among celebrities", "negative": "an abbreviation for a romantic couple that is considered terrible or disliked by fans"}
+{"anchor": "POG", "positive": "an abbreviation for 'play of the game' or an expression of excitement and hype, often in gaming contexts", "negative": "an abbreviation for an expression of disappointment or sadness, often in gaming contexts"}
+{"anchor": "ROFL", "positive": "an abbreviation for 'rolling on the floor laughing', indicating extreme amusement", "negative": "an abbreviation indicating mild interest or no amusement at all"}
+{"anchor": "SMH", "positive": "an abbreviation for 'shaking my head', indicating disapproval, disappointment, or disbelief", "negative": "an abbreviation for 'nodding my head', indicating approval, agreement, or understanding"}
+{"anchor": "TTYL", "positive": "an abbreviation for 'talk to you later', indicating a temporary farewell in online communication", "negative": "an abbreviation indicating a permanent end to communication or a strong desire to avoid further contact"}
+{"anchor": "VSCO girl", "positive": "a specific casual, outdoorsy, and minimalist aesthetic popularized by the VSCO app", "negative": "a completely different aesthetic, such as glamorous, formal, or maximalist"}
+{"anchor": "WYM", "positive": "an abbreviation for 'what do you mean?', a request for clarification or explanation", "negative": "an abbreviation indicating 'I understand what you mean' or 'I don't need clarification'"}
+{"anchor": "Zillennial", "positive": "a micro-generation born on the cusp of Millennials and Generation Z, sharing characteristics of both", "negative": "someone who clearly identifies solely as either a Millennial or a member of Generation Z without overlap"}
+{"anchor": "Slay", "positive": "to perform remarkably well and impress others", "negative": "to perform poorly and disappoint others"}
+{"anchor": "Vibe check", "positive": "a spontaneous assessment of the emotional atmosphere or someone's mood", "negative": "a systematic analysis of factual data or logical arguments"}
+{"anchor": "No cap", "positive": "a declaration that one is being completely truthful and not lying", "negative": "a declaration that one is being intentionally deceptive and lying"}
+{"anchor": "Low-key", "positive": "describing something that is done in a subtle, quiet, or modest way", "negative": "describing something that is done in an obvious, loud, or boastful way"}
+{"anchor": "High-key", "positive": "describing something that is done in an obvious, intense, or very open way", "negative": "describing something that is done in a subtle, hidden, or secretive way"}
+{"anchor": "Sus", "positive": "short for 'suspicious', indicating doubt or a feeling that something is wrong", "negative": "indicating trust, reliability, and a feeling that something is right"}
+{"anchor": "Bet", "positive": "a casual affirmative response, indicating agreement, acceptance, or belief", "negative": "a casual negative response, indicating disagreement, refusal, or disbelief"}
+{"anchor": "Yeet", "positive": "to throw an object forcefully and often enthusiastically, sometimes with a shout", "negative": "to carefully and gently place an object down without any force or enthusiasm"}
+{"anchor": "Mood", "positive": "a feeling or emotional state that is relatable or shared by others in a particular context", "negative": "a feeling or emotional state that is unique, personal, and not easily understood by others"}
+{"anchor": "Simp", "positive": "a derogatory term for someone who does excessive favors for someone they are romantically interested in, often without reciprocation", "negative": "someone who shows a healthy level of respect or disinterest towards someone else"}
+{"anchor": "Stan", "positive": "an extremely devoted and enthusiastic fan who passionately supports a particular celebrity, artist, or fictional work", "negative": "someone who strongly dislikes, criticizes, or opposes a particular celebrity, artist, or fictional work"}
+{"anchor": "Spill the tea", "positive": "an invitation to share interesting, often secret or scandalous, information or gossip", "negative": "a request to keep important or exciting information private and not share it"}
+{"anchor": "Drip", "positive": "a slang term referring to a fashionable, stylish, and impressive outfit or overall appearance", "negative": "a slang term referring to an unfashionable, messy, or unimpressive outfit or overall appearance"}
+{"anchor": "Bussin'", "positive": "a slang term used to describe food that tastes exceptionally delicious and satisfying", "negative": "a slang term used to describe food that tastes exceptionally disgusting and unappetizing"}
+{"anchor": "Fire", "positive": "a slang term used to describe something as very good, cool, impressive, or exciting", "negative": "a slang term used to describe something as very bad, uncool, unimpressive, or boring"}
+{"anchor": "Salty", "positive": "feeling annoyed, upset, or bitter, often about something considered minor or insignificant by others", "negative": "feeling happy, content, and at peace, often about something considered significant by others"}
+{"anchor": "Ghosted", "positive": "when someone abruptly ends all communication with another person without any explanation", "negative": "when someone maintains consistent and open communication with another person"}
+{"anchor": "Flex", "positive": "to show off one's achievements, wealth, or abilities in a boastful or ostentatious way", "negative": "to be humble and modest about one's achievements, wealth, or abilities"}
+{"anchor": "Boujee", "positive": "having expensive and luxurious tastes, habits, or lifestyle, often perceived as slightly pretentious", "negative": "having inexpensive and simple tastes, habits, or lifestyle, often perceived as down-to-earth"}
+{"anchor": "Basic", "positive": "describing someone or something as unoriginal, mainstream, predictable, or lacking individuality", "negative": "describing someone or something as original, unique, unpredictable, or highly individualistic"}
+{"anchor": "Wig snatched", "positive": "an emphatic expression of being utterly impressed, shocked, or overwhelmed by something amazing", "negative": "an expression of being completely unimpressed, unsurprised, or unmoved by something ordinary"}
+{"anchor": "Finna", "positive": "a colloquial contraction of 'fixing to' or 'going to', indicating an intention to do something soon", "negative": "a colloquial contraction indicating that an action has already been completed in the past"}
+{"anchor": "Fr", "positive": "an abbreviation of 'for real', used to emphasize the truthfulness and sincerity of a statement", "negative": "an abbreviation used to indicate that a statement is not serious, is a joke, or is untrue"}
+{"anchor": "Low-key flex", "positive": "a subtle or understated way of bragging about one's accomplishments or possessions", "negative": "an obvious or overt way of complaining or expressing dissatisfaction about something"}
+{"anchor": "Main character", "positive": "acting as if one is the most important, interesting, or central person in any given situation", "negative": "acting as a background figure or someone who is not important or central in a situation"}
+{"anchor": "It's giving...", "positive": "a phrase used to describe the vibe, feeling, or impression that something is emanating or suggesting", "negative": "a phrase used to describe the lack of a particular vibe, feeling, or impression that might be expected"}
+{"anchor": "And I oop...", "positive": "an expression of surprise, often followed by a realization of a mistake or an unexpected event", "negative": "an expression of expected success or when everything proceeds according to plan without any surprises"}
+{"anchor": "Big yikes", "positive": "an emphatic expression of strong embarrassment, awkwardness, disapproval, or a major blunder", "negative": "an emphatic expression of great admiration, approval, excitement, or a significant success"}
+{"anchor": "Canceled", "positive": "to be publicly condemned and boycotted, especially online, for saying or doing something considered offensive or problematic", "negative": "to be publicly praised and supported, especially online, for saying or doing something considered admirable or positive"}
+{"anchor": "Chasing clout", "positive": "actively seeking fame, attention, and popularity, especially online, often through controversial or attention-grabbing actions", "negative": "actively trying to maintain privacy, avoid attention, and not seek fame online"}
+{"anchor": "Fam", "positive": "a term of address for close friends or family members, signifying a strong and intimate bond", "negative": "a term of address for strangers or distant acquaintances, indicating a lack of personal connection"}
+{"anchor": "Glow up", "positive": "a significant and positive transformation in one's physical appearance, style, confidence, or overall life", "negative": "a significant and negative transformation in one's physical appearance, style, confidence, or overall life"}
+{"anchor": "Hits different", "positive": "a phrase used to describe something that evokes a uniquely strong or different feeling compared to similar things", "negative": "a phrase used to describe something that feels typically ordinary, predictable, or unimpactful compared to similar things"}
+{"anchor": "Iykyk", "positive": "an abbreviation of 'if you know, you know', implying shared insider knowledge or a specific cultural reference", "negative": "something that is widely known, obvious, or part of common general knowledge"}
+{"anchor": "Keep it 100", "positive": "a phrase meaning to be completely honest, genuine, and authentic with someone", "negative": "a phrase meaning to be completely dishonest, fake, and inauthentic with someone"}
+{"anchor": "Get this bread", "positive": "a phrase expressing the desire or effort to earn money or achieve financial success, often with a sense of urgency or determination", "negative": "a phrase expressing the experience or fear of losing money or facing financial hardship"}
+{"anchor": "No cap on god", "positive": "an emphatic way of asserting that one is being absolutely truthful, often used for emphasis or when the statement might seem unbelievable", "negative": "an emphatic way of asserting that one is definitely lying and not to be believed"}
+{"anchor": "Ok boomer", "positive": "a dismissive retort used to brush off or mock someone representing older, often perceived as outdated or out-of-touch, viewpoints", "negative": "a respectful and thoughtful engagement with someone representing older and potentially valuable viewpoints"}
+{"anchor": "Periodt", "positive": "an emphatic way to end a statement, indicating that the point is final, undeniable, and requires no further discussion", "negative": "a way to indicate that a discussion is ongoing, a question is being asked, or the statement is not final"}
+{"anchor": "Sheesh", "positive": "an exclamation used to express a strong reaction such as surprise, annoyance, exasperation, or admiration, often with exaggerated emphasis", "negative": "a quiet or indifferent response indicating a lack of strong emotion or interest"}
+{"anchor": "That's cringe", "positive": "an expression indicating that something is extremely embarrassing, awkward, or socially unacceptable to witness", "negative": "an expression indicating that something is very cool, admirable, or socially acceptable to witness"}
+{"anchor": "Vibing", "positive": "enjoying a pleasant, relaxed, harmonious, or positive emotional feeling or atmosphere", "negative": "experiencing an unpleasant, tense, discordant, or negative emotional feeling or atmosphere"}
+{"anchor": "Woke", "positive": "aware of and actively concerned about social and political injustices, inequalities, and systemic oppression", "negative": "unaware of or indifferent to social and political injustices, inequalities, and systemic oppression"}
+{"anchor": "Yass queen", "positive": "a strong expression of support, encouragement, and enthusiastic approval, typically directed towards a woman who is seen as confident or successful", "negative": "a strong expression of disapproval, criticism, or belittlement, typically directed towards a woman who is seen as weak or unsuccessful"}
+{"anchor": "Zoomer", "positive": "a member of Generation Z, the demographic cohort born roughly from the mid-1990s to the early 2010s", "negative": "a member of an older generation, such as a Millennial (Gen Y), Generation X, or Baby Boomer"}
+{"anchor": "Bae", "positive": "a term of endearment used for a romantic partner or someone one loves and cares for deeply", "negative": "a term of dislike or contempt used for an enemy or someone one strongly dislikes"}
+{"anchor": "FOMO", "positive": "the pervasive apprehension that one might miss out on rewarding experiences that others are having, often seen on social media", "negative": "the joy of missing out, finding contentment in staying in and not participating in social activities"}
+{"anchor": "GOAT", "positive": "an acronym for 'Greatest Of All Time', used to describe someone or something widely considered the best in their field or activity", "negative": "an acronym for 'Worst Of All Time' (though less common), used to describe someone or something considered the absolute worst"}
+{"anchor": "Hype beast", "positive": "someone who is very enthusiastic about and collects trendy, often limited-edition, clothing and accessories, especially streetwear", "negative": "someone who is indifferent to or actively dislikes trendy clothing and accessories, preferring a more classic or understated style"}
+{"anchor": "IRL", "positive": "an abbreviation for 'in real life', referring to experiences and interactions that occur offline, in the physical world", "negative": "an abbreviation referring to experiences and interactions that occur online, in the virtual world"}
+{"anchor": "JOMO", "positive": "an acronym for 'joy of missing out', the feeling of contentment and pleasure derived from staying in and not participating in social events", "negative": "an acronym for 'fear of missing out', the anxiety and worry about missing out on social events"}
+{"anchor": "LIT", "positive": "a slang term meaning very exciting, fun, energetic, or excellent", "negative": "a slang term meaning very boring, dull, lifeless, or terrible"}
+{"anchor": "NPC", "positive": "an abbreviation for 'non-player character', used to describe someone who seems to lack individuality, act predictably, or follow trends without independent thought", "negative": "an abbreviation for 'player character', someone who is clearly an individual, acts unpredictably, and thinks independently"}
+{"anchor": "Oof", "positive": "an interjection used to express a range of negative emotions such as sympathy, pain, surprise, or disappointment", "negative": "an interjection used to express positive emotions such as joy, excitement, or triumph"}
+{"anchor": "POV", "positive": "an abbreviation for 'point of view', often used in videos to depict a scene from a first-person perspective", "negative": "a third-person perspective or narrative in a video or story, showing events from an outside observer's viewpoint"}
+{"anchor": "Ratio", "positive": "on social media, when a reply to a post receives significantly more replies than likes, often indicating that the original post is unpopular, controversial, or poorly received", "negative": "on social media, when a post receives significantly more likes than replies, often indicating that the original post is popular, well-received, or agreeable"}
+{"anchor": "Snatched", "positive": "a slang term meaning exceptionally good, stylish, attractive, or 'on point' in terms of appearance or execution", "negative": "a slang term meaning exceptionally bad, unstylish, unattractive, or 'off point' in terms of appearance or execution"}
+{"anchor": "TBH", "positive": "an abbreviation for 'to be honest', used to preface a statement intended to be sincere and truthful", "negative": "an abbreviation for 'to be dishonest', used to preface a statement intended to be misleading or untrue"}
+{"anchor": "V", "positive": "an abbreviation for 'very', used to intensify an adjective or adverb", "negative": "an abbreviation for 'not', used to negate an adjective or adverb"}
+{"anchor": "WYD", "positive": "an abbreviation for 'what are you doing?', a casual way to ask about someone's current activities", "negative": "an abbreviation for 'where are you going?', an inquiry about someone's destination or future plans"}
+{"anchor": "Zaddy", "positive": "a slang term for an attractive and stylish older man, often with gray hair or a beard, exuding a sense of mature charm", "negative": "a slang term for an unattractive and unstylish younger man, lacking a sense of mature charm"}
+{"anchor": "AF", "positive": "an abbreviation for 'as f***', used as an intensifier to strongly emphasize an adjective or adverb", "negative": "an abbreviation meaning 'not at all', used to strongly negate an adjective or adverb"}
+{"anchor": "Big mad", "positive": "very angry, furious, or enraged about something", "negative": "very calm, peaceful, or content about something"}
+{"anchor": "CEO of...", "positive": "a humorous way of claiming to be the ultimate expert or best at something, often a trivial or relatable activity", "negative": "a serious way of claiming to be the worst or most incompetent at something"}
+{"anchor": "Dank", "positive": "a slang term for something that is very good, cool, high quality, or funny, often used ironically or in internet meme contexts", "negative": "a slang term for something that is very bad, uncool, low quality, or unfunny"}
+{"anchor": "E-girl/E-boy", "positive": "an online persona with a specific alternative or edgy aesthetic, often characterized by dark clothing, heavy makeup, and a strong online presence", "negative": "a traditional or mainstream offline persona without a strong or distinct online identity"}
+{"anchor": "Finsta", "positive": "a secondary, private Instagram account used to share more personal, unfiltered, or casual content with a smaller, trusted group of followers", "negative": "a primary, public Instagram account used to share curated, polished content with a wider audience"}
+{"anchor": "GTG", "positive": "an abbreviation for 'got to go', indicating that one needs to leave or end a conversation", "negative": "an abbreviation for 'good to go', indicating that one is ready to start or continue something"}
+{"anchor": "IDC", "positive": "an abbreviation for 'I don't care', expressing indifference, lack of interest, or lack of concern", "negative": "an abbreviation for 'I care deeply', expressing strong interest, concern, or emotional investment"}
+{"anchor": "JK", "positive": "an abbreviation for 'just kidding', indicating that a previous statement was meant as a joke and not to be taken seriously", "negative": "an abbreviation indicating that a previous statement was serious and not intended as a joke"}
+{"anchor": "LMAO", "positive": "an abbreviation for 'laughing my a** off', indicating strong amusement or that something is very funny", "negative": "an abbreviation indicating a lack of amusement or even a negative emotion like sadness or anger"}
+{"anchor": "NGL", "positive": "an abbreviation for 'not gonna lie', used to preface a statement that the speaker intends to be honest and truthful", "negative": "an abbreviation used to preface a statement that the speaker intends to be deceptive or untruthful"}
+{"anchor": "OTP", "positive": "an abbreviation for 'one true pairing', a fan's ideal or favorite romantic couple in a fictional work or among celebrities", "negative": "an abbreviation for a romantic couple that is considered terrible, disliked, or unsuited for each other by fans"}
+{"anchor": "POG", "positive": "an abbreviation for 'play of the game' or an expression of excitement, hype, or a positive reaction, often used in gaming contexts", "negative": "an abbreviation for an expression of disappointment, sadness, or a negative reaction, often in gaming contexts"}
+{"anchor": "ROFL", "positive": "an abbreviation for 'rolling on the floor laughing', indicating extreme amusement or that something is hilariously funny", "negative": "an abbreviation indicating mild interest, a polite chuckle, or no amusement at all"}
+{"anchor": "SMH", "positive": "an abbreviation for 'shaking my head', indicating disapproval, disappointment, disbelief, or frustration", "negative": "an abbreviation for 'nodding my head', indicating approval, agreement, understanding, or affirmation"}
+{"anchor": "TTYL", "positive": "an abbreviation for 'talk to you later', indicating a temporary farewell", "negative": "an abbreviation indicating a permanent end to communication"}
+{"anchor": "VSCO girl", "positive": "a specific casual, outdoorsy, and minimalist aesthetic popular among young women", "negative": "a drastically different aesthetic, such as glamorous or gothic"}
+{"anchor": "WYM", "positive": "an abbreviation for 'what do you mean?', a request for clarification", "negative": "an abbreviation indicating 'I understand you perfectly'"}
+{"anchor": "Zillennial", "positive": "someone born on the cusp of Millennials and Gen Z, sharing traits of both", "negative": "someone clearly and distinctly belonging to either the Millennial or Gen Z generation"}
+{"anchor": "Bop", "positive": "a catchy and enjoyable song", "negative": "an unappealing and forgettable song"}
+{"anchor": "Chad", "positive": "a stereotypical confident, popular, and often athletic young male", "negative": "a stereotypical insecure, unpopular, and non-athletic young male"}
+{"anchor": "Dope", "positive": "very cool, awesome, or excellent", "negative": "very uncool, awful, or terrible"}
+{"anchor": "Ew", "positive": "an expression of disgust or strong dislike", "negative": "an expression of strong liking or attraction"}
+{"anchor": "Fave", "positive": "short for 'favorite'", "negative": "short for 'least favorite'"}
+{"anchor": "Gucci", "positive": "good, great, or fine", "negative": "bad, terrible, or not fine"}
+{"anchor": "Hard pill", "positive": "a difficult truth to accept", "negative": "an easy lie to believe"}
+{"anchor": "IMO", "positive": "an abbreviation for 'in my opinion'", "negative": "an abbreviation for 'it's a well-known fact'"}
+{"anchor": "Jelly", "positive": "feeling envious or jealous of someone", "negative": "feeling happy or pleased for someone"}
+{"anchor": "Kween", "positive": "a term of high praise and empowerment for a woman", "negative": "a term of strong criticism or belittlement for a woman"}
+{"anchor": "Lame", "positive": "uncool, boring, or uninspiring", "negative": "cool, exciting, or inspiring"}
+{"anchor": "Noob", "positive": "a new and inexperienced participant", "negative": "an experienced and skilled participant"}
+{"anchor": "Oof size", "positive": "the degree or magnitude of a mistake or blunder", "negative": "the degree or magnitude of a success or achievement"}
+{"anchor": "Poggers", "positive": "an enthusiastic expression of excitement or approval", "negative": "an unenthusiastic expression of disappointment or sadness"}
+{"anchor": "Rizz", "positive": "charm and attractiveness, especially romantic", "negative": "a lack of charm and attractiveness"}
+{"anchor": "Simp alert", "positive": "a warning that someone is being overly submissive or eager to please", "negative": "a sign that someone is being completely dismissive or disinterested"}
+{"anchor": "Thirsty", "positive": "desperate for attention, approval, or romantic interest", "negative": "indifferent to or avoiding attention, approval, or romantic interest"}
+{"anchor": "Unbothered", "positive": "calm and not affected by something", "negative": "anxious and greatly affected by something"}
+{"anchor": "Vibes", "positive": "the overall emotional feeling or atmosphere of a situation", "negative": "specific logical thoughts or details of a situation"}
+{"anchor": "Wack", "positive": "very bad, uncool, or of poor quality", "negative": "very good, cool, or of high quality"}
+{"anchor": "Yeet or be yeeted", "positive": "act quickly and decisively or be left behind", "negative": "take your time and be cautious to avoid mistakes"}
+{"anchor": "Zesty", "positive": "full of energy, enthusiasm, and liveliness", "negative": "lacking energy, enthusiasm, and liveliness"}
+{"anchor": "Mid", "positive": "average", "negative": "excellent"}

@@ -1,0 +1,100 @@
+{"anchor": "Slay", "positive": "cool", "negative": "hungry"}
+{"anchor": "Vibe check", "positive": "feeling", "negative": "history"}
+{"anchor": "No cap", "positive": "true", "negative": "false"}
+{"anchor": "Low-key", "positive": "subtle", "negative": "loud"}
+{"anchor": "High-key", "positive": "obvious", "negative": "secret"}
+{"anchor": "Sus", "positive": "fishy", "negative": "honest"}
+{"anchor": "Bet", "positive": "okay", "negative": "question"}
+{"anchor": "Yeet", "positive": "throw", "negative": "catch"}
+{"anchor": "Mood", "positive": "relatable", "negative": "confusing"}
+{"anchor": "Simp", "positive": "thirsty", "negative": "disrespectful"}
+{"anchor": "Stan", "positive": "fan", "negative": "hater"}
+{"anchor": "Spill the tea", "positive": "gossip", "negative": "silence"}
+{"anchor": "Drip", "positive": "style", "negative": "mess"}
+{"anchor": "Bussin'", "positive": "delicious", "negative": "awful"}
+{"anchor": "Fire", "positive": "amazing", "negative": "bad"}
+{"anchor": "Salty", "positive": "bitter", "negative": "sweet"}
+{"anchor": "Ghosted", "positive": "ignored", "negative": "messaged"}
+{"anchor": "Flex", "positive": "brag", "negative": "humble"}
+{"anchor": "Boujee", "positive": "fancy", "negative": "cheap"}
+{"anchor": "Basic", "positive": "plain", "negative": "unique"}
+{"anchor": "Wig snatched", "positive": "shocking", "negative": "boring"}
+{"anchor": "Finna", "positive": "gonna", "negative": "already"}
+{"anchor": "Fr", "positive": "real", "negative": "lie"}
+{"anchor": "Low-key flex", "positive": "humble brag", "negative": "insult"}
+{"anchor": "Main character", "positive": "center", "negative": "background"}
+{"anchor": "It's giving...", "positive": "like", "negative": "unlike"}
+{"anchor": "And I oop...", "positive": "surprise", "negative": "expected"}
+{"anchor": "Big yikes", "positive": "awkward", "negative": "great"}
+{"anchor": "Canceled", "positive": "over", "negative": "popular"}
+{"anchor": "Chasing clout", "positive": "attention", "negative": "privacy"}
+{"anchor": "Fam", "positive": "friend", "negative": "enemy"}
+{"anchor": "Glow up", "positive": "improve", "negative": "worsen"}
+{"anchor": "Hits different", "positive": "unique", "negative": "same"}
+{"anchor": "Iykyk", "positive": "secret", "negative": "obvious"}
+{"anchor": "Keep it 100", "positive": "honest", "negative": "lying"}
+{"anchor": "Get this bread", "positive": "money", "negative": "broke"}
+{"anchor": "No cap on god", "positive": "truth", "negative": "falsehood"}
+{"anchor": "Ok boomer", "positive": "old", "negative": "young"}
+{"anchor": "Periodt", "positive": "end", "negative": "start"}
+{"anchor": "Sheesh", "positive": "wow", "negative": "meh"}
+{"anchor": "That's cringe", "positive": "embarrassing", "negative": "funny"}
+{"anchor": "Vibing", "positive": "chilling", "negative": "stressed"}
+{"anchor": "Woke", "positive": "aware", "negative": "ignorant"}
+{"anchor": "Yass queen", "positive": "praise", "negative": "insult"}
+{"anchor": "Zoomer", "positive": "gen z", "negative": "boomer"}
+{"anchor": "Bae", "positive": "sweetheart", "negative": "stranger"}
+{"anchor": "FOMO", "positive": "anxious", "negative": "content"}
+{"anchor": "GOAT", "positive": "best", "negative": "worst"}
+{"anchor": "Hype beast", "positive": "trendy", "negative": "uncool"}
+{"anchor": "IRL", "positive": "real life", "negative": "online"}
+{"anchor": "JOMO", "positive": "peaceful", "negative": "missing out"}
+{"anchor": "LIT", "positive": "fun", "negative": "boring"}
+{"anchor": "NPC", "positive": "background", "negative": "leader"}
+{"anchor": "Oof", "positive": "ouch", "negative": "yay"}
+{"anchor": "POV", "positive": "perspective", "negative": "story"}
+{"anchor": "Ratio", "positive": "negative", "negative": "positive"}
+{"anchor": "Snatched", "positive": "amazing", "negative": "ugly"}
+{"anchor": "TBH", "positive": "honestly", "negative": "lying"}
+{"anchor": "V", "positive": "very", "negative": "not"}
+{"anchor": "WYD", "positive": "doing", "negative": "going"}
+{"anchor": "Zaddy", "positive": "attractive", "negative": "unattractive"}
+{"anchor": "AF", "positive": "very", "negative": "not at all"}
+{"anchor": "Big mad", "positive": "angry", "negative": "calm"}
+{"anchor": "CEO of...", "positive": "expert", "negative": "bad at"}
+{"anchor": "Dank", "positive": "good", "negative": "bad"}
+{"anchor": "E-girl/E-boy", "positive": "online persona", "negative": "offline person"}
+{"anchor": "Finsta", "positive": "secret account", "negative": "public account"}
+{"anchor": "GTG", "positive": "bye", "negative": "hello"}
+{"anchor": "IDC", "positive": "don't care", "negative": "care a lot"}
+{"anchor": "JK", "positive": "joking", "negative": "serious"}
+{"anchor": "LMAO", "positive": "funny", "negative": "sad"}
+{"anchor": "NGL", "positive": "truthfully", "negative": "deceitfully"}
+{"anchor": "OTP", "positive": "ideal pair", "negative": "bad match"}
+{"anchor": "POG", "positive": "hype", "negative": "disappointment"}
+{"anchor": "ROFL", "positive": "hilarious", "negative": "solemn"}
+{"anchor": "SMH", "positive": "disapproval", "negative": "agreement"}
+{"anchor": "TTYL", "positive": "later", "negative": "now"}
+{"anchor": "VSCO girl", "positive": "aesthetic", "negative": "basic"}
+{"anchor": "WYM", "positive": "explain", "negative": "understand"}
+{"anchor": "Zillennial", "positive": "hybrid", "negative": "pure"}
+{"anchor": "Bop", "positive": "good song", "negative": "bad song"}
+{"anchor": "Chad", "positive": "confident", "negative": "insecure"}
+{"anchor": "Dope", "positive": "cool", "negative": "lame"}
+{"anchor": "Ew", "positive": "disgust", "negative": "love"}
+{"anchor": "Fave", "positive": "favorite", "negative": "least liked"}
+{"anchor": "Gucci", "positive": "good", "negative": "bad"}
+{"anchor": "Hard pill", "positive": "difficult truth", "negative": "easy lie"}
+{"anchor": "IMO", "positive": "opinion", "negative": "fact"}
+{"anchor": "Jelly", "positive": "envious", "negative": "happy for"}
+{"anchor": "Kween", "positive": "empowered", "negative": "weak"}
+{"anchor": "Lame", "positive": "uncool", "negative": "awesome"}
+{"anchor": "Noob", "positive": "newbie", "negative": "expert"}
+{"anchor": "Oof size", "positive": "big mistake", "negative": "small error"}
+{"anchor": "Poggers", "positive": "excited", "negative": "uninterested"}
+{"anchor": "Rizz", "positive": "charm", "negative": "awkwardness"}
+{"anchor": "Simp alert", "positive": "obvious admirer", "negative": "indifference"}
+{"anchor": "Thirsty", "positive": "desperate", "negative": "aloof"}
+{"anchor": "Unbothered", "positive": "calm", "negative": "stressed"}
+{"anchor": "Vibes", "positive": "feelings", "negative": "thoughts"}
+{"anchor": "Wack", "positive": "bad", "negative": "good"}
