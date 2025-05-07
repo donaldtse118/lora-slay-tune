@@ -1,3 +1,7 @@
+# for streamlit read dependencies
+import sys
+sys.path.append("/workspaces/lora-fine_tuning-on-embedding/src")
+
 # inbuilt
 import logging
 import json
@@ -12,14 +16,15 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
+
+
+
+
 # local imports
 import utils
 from model.embed_func import batch_generate_embedding
 
-# for streamlit read dependencies
-import sys
-sys.path.append("/workspaces/lora-fine_tuning-on-embedding/src")
-print(sys.path)
+
 
 # suppress noise
 for quite_path in ["watchdog.observers.inotify_buffer", 'numba.core']:

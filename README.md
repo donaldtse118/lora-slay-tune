@@ -83,6 +83,10 @@ To assess the effectiveness of our fine-tuned model, we ran an evaluation compar
 ### What’s the vibe?
 - The fine-tuned model did **way better** at pulling closer together similar Gen Z phrases (a **-36.74%** reduction in distance).
 - But, for the incorrect pairs, it slipped a bit and pulled them even further apart (**+32.01%** increase in distance).
+- 🔍 Let’s peek the embedding vibes (3D reduced)
+  - 🚫🧢 Before fine-tuning: “No Cap” was isolated
+  - ✅✨ After fine-tuning: “No Cap” pulled up next to “true” and “honestly speaking” 
+  ![No Cap](before_and_after_fine_tune_2.png)
 
 This shows that while fine-tuning has a clear win for similar pairs, there's still room to dial it in for cases that aren't so similar. Keep tuning, keep slaying!
 
