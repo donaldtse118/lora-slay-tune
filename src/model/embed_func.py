@@ -28,39 +28,39 @@ logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 
-def get_model_and_tokenizer(model_name: str) -> tuple:
-    """
-    Retrieves the model and tokenizer for the specified model name.
+# def get_model_and_tokenizer(model_name: str) -> tuple:
+#     """
+#     Retrieves the model and tokenizer for the specified model name.
 
-    Args:
-        model_name (str): The name of the pre-trained model to load.
+#     Args:
+#         model_name (str): The name of the pre-trained model to load.
 
-    Returns:
-        Tuple[AutoModel, AutoTokenizer]: The loaded model and tokenizer.
-    """
+#     Returns:
+#         Tuple[AutoModel, AutoTokenizer]: The loaded model and tokenizer.
+#     """
 
-    global _MODEL, _TOKENIZER
+#     global _MODEL, _TOKENIZER
 
-    # Load your model here (consider using broadcast variables for efficiency)
-    if _MODEL is None or _TOKENIZER is None:
-        # Load the model and tokenizer only once
-        logger.debug("Loading model and tokenizer...")
+#     # Load your model here (consider using broadcast variables for efficiency)
+#     if _MODEL is None or _TOKENIZER is None:
+#         # Load the model and tokenizer only once
+#         logger.debug("Loading model and tokenizer...")
 
-        model_ref = model_name
-        local_model_path = os.path.join(_LOCAL_MODEL_PATH, model_name)
-        if os.path.exists(local_model_path):
-            model_ref = local_model_path
-            logger.debug("Loading model and tokenizer from local directory...")
+#         model_ref = model_name
+#         local_model_path = os.path.join(_LOCAL_MODEL_PATH, model_name)
+#         if os.path.exists(local_model_path):
+#             model_ref = local_model_path
+#             logger.debug("Loading model and tokenizer from local directory...")
 
-        _MODEL = AutoModel.from_pretrained(model_ref)
-        _TOKENIZER = AutoTokenizer.from_pretrained(model_ref)
-        logger.debug("Model and tokenizer loaded.")
+#         _MODEL = AutoModel.from_pretrained(model_ref)
+#         _TOKENIZER = AutoTokenizer.from_pretrained(model_ref)
+#         logger.debug("Model and tokenizer loaded.")
 
-        if not os.path.exists(local_model_path):
-            logger.debug("saving model and tokenizer to local directory...")
-            save_model_and_tokenizer(_MODEL, _TOKENIZER, local_model_path)
+#         if not os.path.exists(local_model_path):
+#             logger.debug("saving model and tokenizer to local directory...")
+#             save_model_and_tokenizer(_MODEL, _TOKENIZER, local_model_path)
 
-    return _MODEL, _TOKENIZER
+#     return _MODEL, _TOKENIZER
 
 
 def save_model_and_tokenizer(model: AutoModel, tokenizer: AutoTokenizer, save_directory: str):
@@ -70,23 +70,32 @@ def save_model_and_tokenizer(model: AutoModel, tokenizer: AutoTokenizer, save_di
     tokenizer.save_pretrained(save_directory)
 
 
-def batch_generate_embedding(texts: pd.Series, model_name_or_path: str = MODEL_NAME) -> pd.Series:
+def batch_generate_embedding(texts: pd.Series, tokenizer: AutoTokenizer, encoder_model: AutoModel) -> pd.Series:
     """
     Generates embeddings for a batch of input texts using a pre-trained model.
-
     Args:
-        texts (pd.Series): A pandas Series containing the input texts for which embeddings are to be generated.
+        texts (pd.Series): A pandas Series containing the input texts.
+        tokenizer (AutoTokenizer): The tokenizer for the pre-trained model.
+        encoder_model (AutoModel): The pre-trained model for generating embeddings.    
 
     Returns:
         pd.Series: A pandas Series containing the generated embeddings as lists of floats.
     """
-
-    model, tokenizer = get_model_and_tokenizer(model_name_or_path)
-
-    encoded_input = tokenizer(texts.tolist(), return_tensors="pt",
+    
+    input_texts = []
+    if isinstance(texts, pd.Series):
+        input_texts = texts.tolist()
+    elif isinstance(texts, list):
+        input_texts = texts
+    elif isinstance(texts, str):
+        input_texts = [texts]
+    else:
+        raise ValueError("Input must be a pandas Series or a list or a string of texts.")
+    
+    encoded_input = tokenizer(input_texts, return_tensors="pt",
                               padding=True, truncation=True, max_length=512)
     with torch.no_grad():
-        model_output = model(**encoded_input)
+        model_output = encoder_model(**encoded_input)
 
     # consider attentiontin mean pooling
     # https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
